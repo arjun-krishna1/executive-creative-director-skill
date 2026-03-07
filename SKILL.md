@@ -66,18 +66,7 @@ Proceed to Phase 2.
 
 ## Phase 2: Brand Thesis
 
-Using the client brief, write a creative director's design brief following the methodology in [references/brand-thesis-process.md](references/brand-thesis-process.md).
-
-See [references/thesis-examples.md](references/thesis-examples.md) for the quality bar.
-
-**The thesis must:**
-
-- Allow a junior designer to confidently build a brand book and make decisions on colors, typography, illustration style, photography style, merch -- without making those decisions for them
-- Create room for designers to design within a frame that prevents total failure
-- Be imaginative in describing the types of people who relate to this brand and what brands they already love
-- Give insight into the customer and where they might be falling short
-- Acknowledge founder bias -- all tech founders love Apple, all beauty founders love Starface, all YouTubers love MrBeast -- understand that's what the client wants, but name it
-- Include all critical requirements: brand name, what it does, non-negotiables
+Using the client brief, write a creative director's design brief. Follow the methodology in [references/brand-thesis-process.md](references/brand-thesis-process.md). See [references/thesis-examples.md](references/thesis-examples.md) for the quality bar.
 
 **Output format:**
 

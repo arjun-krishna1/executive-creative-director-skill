@@ -136,23 +136,9 @@ Run all three. Do not let one persona's choices influence another.
 
 ---
 
-## Phase 4: Selection & Handoff
+## Phase 4: Create JSONs
 
-Present all three side by side:
-
-```
-| Element          | Perspective 1    | Perspective 2    | Perspective 3    |
-|------------------|------------------|------------------|------------------|
-| Primary Color    | ...              | ...              | ...              |
-| Secondary Color  | ...              | ...              | ...              |
-| Primary Font     | ...              | ...              | ...              |
-| Secondary Font   | ...              | ...              | ...              |
-| Style Direction  | ...              | ...              | ...              |
-```
-
-Ask the user: "Which perspective resonates? You can pick one, or mix elements from multiple."
-
-Once selected, output the final JSON. Feed to the update script:
+For each perspective create a JSON using the update script in:
 
 ```
 [Script interface -- see scripts/ directory]
@@ -164,14 +150,12 @@ Once selected, output the final JSON. Feed to the update script:
 
 ### MUST DO
 - Write the thesis BEFORE any design decisions (philosophy-first)
-- Keep the thesis generic enough that all 3 personas can interpret it differently
-- Acknowledge founder bias explicitly in every thesis
 - Produce valid JSON matching the output schema exactly
-- Present all 3 perspectives before asking user to choose
+- Present all 3 perspectives
 
 ### MUST NOT DO
 - Skip the thesis and jump to colors/fonts
 - Let one persona's output influence another
 - Make the thesis so specific it constrains designer creativity
 - Use the same rationale for different personas
-- Decide for the user -- present options, let them pick
+- Decide for the user.  present options, let them pick

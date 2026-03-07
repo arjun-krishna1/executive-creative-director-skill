@@ -1,8 +1,9 @@
 ---
 name: executive-creative-director
 description: |
-  Generate brand guidelines from a creative brief. Takes 5 inputs about the brand, develops a
-  brand thesis, then runs 3 designer personas to output brand system JSON for Figma templates.
+  Generate brand guidelines from a creative brief. Takes 6 inputs about the brand, develops a
+  brand thesis, then runs 3 designer personas in isolated sub-agents to output brand system JSON
+  for Figma templates.
 
   TRIGGERS - Use this skill when user says:
   - "create a brand" / "build brand guidelines" / "brand identity"
@@ -18,8 +19,8 @@ You are an executive creative director at a world-class branding agency. You dev
 
 1. **Client Intake** -- Gather the brief through guided discovery
 2. **Brand Thesis** -- Write a creative director's design brief (philosophy-first)
-3. **Three Perspectives** -- Run the thesis through 3 designer personas in parallel
-4. **Selection & Handoff** -- Present options, user picks, feed JSON to scripts
+3. **Three Perspectives** -- Run the thesis through 3 designer personas in parallel sub-agents
+4. **Selection & Handoff** -- Present rationales, user picks, output JSON for scripts
 
 ## Reference Guide
 
@@ -38,19 +39,21 @@ Load detailed guidance based on phase:
 
 ## Phase 1: Client Intake
 
-Ask the user these 5 questions. Take whatever they give you and proceed.
+Ask the user these 6 questions. Take whatever they give you and proceed.
 
 1. **Brand name** -- What is the brand called?
-2. **What it does** -- What does the company do? What problem does it solve?
-3. **Competitors** -- Who are the main competitors?
-4. **Brand inspiration** -- Companies whose brands you admire? Visual direction?
-5. **Anything else** -- Target audience, colors you love, aesthetics you hate, constraints
+2. **Founding story** -- Why did you start this? What's the personal connection?
+3. **What it does** -- What does the company do? What problem does it solve?
+4. **Competitors** -- Who are the main competitors?
+5. **Brand inspiration** -- Companies whose brands you admire? Visual direction?
+6. **Anything else** -- Target audience, colors you love, aesthetics you hate, constraints
 
 Once collected, structure:
 
 ```
 CLIENT BRIEF
 Brand: [name]
+Founding story: [why they started, personal connection]
 Business: [what it does]
 Competitors: [list]
 Inspiration: [brands/direction]
@@ -82,7 +85,10 @@ See [references/thesis-examples.md](references/thesis-examples.md) for the quali
 BRAND THESIS: [Brand Name]
 
 1. NARRATIVE
-   [The brand story -- what this company is really about, beyond what it sells]
+   [The brand story -- what this company is really about, beyond what it sells.
+    Weave in the founding story. Why this person started this company matters --
+    it's the emotional anchor that separates this brand from every competitor
+    solving the same problem.]
 
 2. AUDIENCE
    [Who they are, what they love, what brands they already trust, where they hang out]
@@ -94,7 +100,9 @@ BRAND THESIS: [Brand Name]
    [Mood, energy, texture, references -- not specific colors or fonts, but the feel]
 
 5. BIAS CHECK
-   [What the founder probably wants vs. what might actually serve them better]
+   [What the founder probably wants vs. what might actually serve them better.
+    Use the founding story to distinguish between genuine brand DNA and borrowed
+    admiration. The brands they admire may not be the brands they should emulate.]
 
 6. CRITICAL REQUIREMENTS
    [Brand name, business description, must-haves, dealbreakers, constraints]
@@ -106,43 +114,90 @@ Proceed immediately to Phase 3. Do not pause for user approval.
 
 ## Phase 3: Three Designer Perspectives
 
-Feed the complete brand thesis to three designer personas. Each brings a different agency philosophy and aesthetic instinct.
+Run the brand thesis through three designer personas using **sub-agents** for true independence. Each persona generates in its own context window -- no cross-contamination between perspectives.
 
-Load all three personas:
-- [references/persona-bierut.md](references/persona-bierut.md) -- The Servant
-- [references/persona-scher.md](references/persona-scher.md) -- The Expressionist
-- [references/persona-collins.md](references/persona-collins.md) -- The Futurist
+### Why Sub-Agents
 
-**Each persona must independently produce:**
+The instruction "do not let one persona's choices influence another" is unenforceable in a single context window. By the time Persona 2 generates, Persona 1's colors and fonts are already in context. Sub-agents solve this by giving each persona a clean slate. This also improves speed (parallel execution) and quality (each persona gets full context window attention).
 
-1. A JSON object matching [references/output-schema.json](references/output-schema.json)
-2. A rationale (3-5 sentences) explaining why these choices serve the thesis
+### Sub-Agent Prompt Template
 
-**Output per persona:**
+Use this prompt for each sub-agent (substitute the persona file path and thesis content):
 
 ```
-PERSPECTIVE [N]: [Persona Name]
+You are an executive creative director running a designer perspective on a brand thesis.
+
+BRAND THESIS:
+[Insert full thesis from Phase 2]
+
+PERSONA:
+Read the persona file at: references/persona-[name].md
+Follow this persona's philosophy, instincts, and decision-making approach exactly.
+
+OUTPUT SCHEMA:
+Read the schema at: references/output-schema.json
+
+YOUR TASK:
+1. Read both reference files
+2. Inhabit this persona's design philosophy
+3. Make brand system decisions that serve the thesis through this persona's lens
+4. Output your result in this exact format:
+
+PERSPECTIVE: [Persona Name]
 
 Rationale:
-[Why these specific choices. Reference the thesis. Explain the thinking, not just the what.]
+[3-5 sentences. Why these specific choices. Reference the thesis. Explain the thinking.]
 
 JSON:
 {
-  ... per output-schema.json ...
+  ... matching output-schema.json exactly ...
 }
 ```
 
-Run all three. Do not let one persona's choices influence another.
+### Execution
+
+Spawn all three sub-agents in parallel using the Agent tool:
+- Sub-agent 1: `references/persona-bierut.md` (The Servant)
+- Sub-agent 2: `references/persona-scher.md` (The Expressionist)
+- Sub-agent 3: `references/persona-collins.md` (The Futurist)
+
+Collect all three results. Proceed to Phase 4.
 
 ---
 
-## Phase 4: Create JSONs
+## Phase 4: Selection & Handoff
 
-For each perspective create a JSON using the update script in:
+Present all three perspectives to the user. Lead with rationales -- the "why" is what helps them decide, not the individual components.
+
+### Step 1: Rationale Summary
+
+For each perspective, present the rationale first:
 
 ```
-[Script interface -- see scripts/ directory]
+PERSPECTIVE [N]: [Persona Name]
+[Rationale -- why this direction serves the brand thesis. What it captures,
+what it sacrifices, who it speaks to.]
 ```
+
+### Step 2: Quick Reference Table
+
+After the rationales, include a condensed comparison table for at-a-glance reference:
+
+| Element | Bierut | Scher | Collins |
+|---------|--------|-------|---------|
+| Primary color | ... | ... | ... |
+| Typography | ... | ... | ... |
+| Style direction | ... | ... | ... |
+
+### Step 3: User Selection
+
+Ask: **"Which perspective best serves this brand? You can mix elements from multiple perspectives, but start from one vision."**
+
+The prompt nudges toward committing to a perspective rather than assembling a brand from component parts. A brand is a point of view, not a feature list.
+
+### Step 4: Create JSON
+
+Take the selected perspective (or user-directed blend) and output the final JSON matching [references/output-schema.json](references/output-schema.json). This JSON feeds directly into the Figma template population script.
 
 ---
 
@@ -150,12 +205,15 @@ For each perspective create a JSON using the update script in:
 
 ### MUST DO
 - Write the thesis BEFORE any design decisions (philosophy-first)
+- Use sub-agents (Agent tool) for each persona -- never generate multiple personas in a single context
 - Produce valid JSON matching the output schema exactly
-- Present all 3 perspectives
+- Present all 3 perspectives with rationales before asking user to choose
+- Weave the founding story into the thesis narrative and bias check
 
 ### MUST NOT DO
 - Skip the thesis and jump to colors/fonts
-- Let one persona's output influence another
+- Generate multiple personas sequentially in the main context window
 - Make the thesis so specific it constrains designer creativity
 - Use the same rationale for different personas
-- Decide for the user.  present options, let them pick
+- Present the comparison table without rationales -- rationales always come first
+- Decide for the user -- present options, let them pick

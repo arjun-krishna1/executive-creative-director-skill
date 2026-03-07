@@ -1,0 +1,97 @@
+{
+  "brand_name": "Brand Guidelines Figma: Example",
+  "colors": {
+    "primary": "EEF3FF",
+    "secondary": "D8C3AF",
+    "accent": "C56F52",
+    "background": "EEF3FF",
+    "text": "20304A",
+    "primary_palette": [
+      "EEF3FF",
+      "D7E3FF",
+      "20304A",
+      "7D93C6",
+      "C7D3EA",
+      "465A86"
+    ],
+    "secondary_palette": [
+      "D8C3AF",
+      "B99984",
+      "BFD9D7"
+    ],
+    "tertiary_palette": [
+      "8A8C6A",
+      "C56F52",
+      "F2C5BC"
+    ]
+  },
+  "typography": {
+    "primary_font": "Poppins",
+    "secondary_font": "Instrument Sans",
+    "heading_weight": "Medium",
+    "body_weight": "Medium",
+    "tokens": {
+      "logo_primary": {
+        "family": "Poppins",
+        "style": "Medium",
+        "font_size": 240,
+        "line_height_percent": 85,
+        "tracking_percent": -2
+      },
+      "page_hero": {
+        "family": "Poppins",
+        "style": "Medium",
+        "font_size": 240,
+        "line_height_percent": 85,
+        "tracking_percent": -2
+      },
+      "longform_body": {
+        "family": "Poppins",
+        "style": "Medium",
+        "font_size": 64,
+        "line_height_percent": 95,
+        "tracking_percent": -1
+      },
+      "head_wordmark": {
+        "family": "Instrument Sans",
+        "style": "SemiBold",
+        "font_size": 19,
+        "line_height_percent": 90,
+        "tracking_percent": 3
+      },
+      "nav_label": {
+        "family": "Instrument Sans",
+        "style": "Medium",
+        "font_size": 14,
+        "line_height_percent": 120,
+        "tracking_percent": -2
+      },
+      "footer_meta": {
+        "family": "EB Garamond",
+        "style": "Medium Italic",
+        "font_size": 14,
+        "line_height_percent": 90,
+        "tracking_percent": -2
+      }
+    }
+  },
+  "text": {
+    "logo_primary": "example demo",
+    "page_heroes": {
+      "logo": "Logo",
+      "typography": "Typography",
+      "color": "Palette Demo"
+    },
+    "head_wordmark_standard": "Velour & Co.",
+    "head_wordmark_principles": "Agent Branding & Co.",
+    "footer_presentation_title": "Velour & Co Presentation\nDeveloped By BrandKit",
+    "footer_copyright": "\u00a9 2024",
+    "footer_section_labels": {
+      "principles": "Principles",
+      "logo": "Logo",
+      "typography": "Typography",
+      "color": "Color"
+    },
+    "color_intro": "This demo palette shifts the brand toward warm ivory, clay, and sage so the update is easy to spot in the Figma file."
+  }
+}

@@ -1,30 +1,120 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["brand_name", "colors", "typography", "style_direction"],
+  "required": ["brand_name", "colors", "typography", "logo", "photography", "spacing", "signature_elements", "voice", "style_direction"],
   "properties": {
-    "brand_name": { "type": "string" },
+    "brand_name": {
+      "type": "string",
+      "description": "The brand name exactly as it should appear"
+    },
     "colors": {
       "type": "object",
-      "required": ["primary", "secondary", "accent"],
+      "required": ["primary", "secondary", "accent", "background", "text"],
       "properties": {
-        "primary": { "type": "string", "description": "Hex color without #" },
-        "secondary": { "type": "string" },
-        "accent": { "type": "string" },
-        "background": { "type": "string" },
-        "text": { "type": "string" }
+        "primary": { "type": "string", "description": "Hex color (e.g. #1A2B3C)" },
+        "secondary": { "type": "string", "description": "Hex color" },
+        "accent": { "type": "string", "description": "Hex color" },
+        "background": { "type": "string", "description": "Hex color" },
+        "text": { "type": "string", "description": "Hex color" },
+        "dark_theme": {
+          "type": "object",
+          "properties": {
+            "background": { "type": "string", "description": "Hex color" },
+            "text": { "type": "string", "description": "Hex color" },
+            "accent": { "type": "string", "description": "Hex color" }
+          },
+          "required": ["background", "text", "accent"]
+        }
       }
     },
     "typography": {
       "type": "object",
-      "required": ["primary_font", "secondary_font"],
+      "required": ["primary_font", "secondary_font", "heading_weight", "body_weight", "heading_style", "scale_ratio"],
       "properties": {
-        "primary_font": { "type": "string" },
-        "secondary_font": { "type": "string" },
-        "heading_weight": { "type": "string" },
-        "body_weight": { "type": "string" }
+        "primary_font": { "type": "string", "description": "Font family name (must be a real, available font)" },
+        "secondary_font": { "type": "string", "description": "Font family name (must be a real, available font)" },
+        "heading_weight": { "type": "string", "description": "e.g. Bold, Black, Medium, Light" },
+        "body_weight": { "type": "string", "description": "e.g. Regular, Light, Book" },
+        "heading_style": {
+          "type": "string",
+          "enum": ["all-caps", "title-case", "sentence-case"],
+          "description": "How headings are capitalized"
+        },
+        "scale_ratio": {
+          "type": "number",
+          "description": "Type scale ratio (e.g. 1.25 major third, 1.333 perfect fourth, 1.618 golden ratio)"
+        }
       }
     },
-    "style_direction": { "type": "string", "description": "One-line style summary" }
+    "logo": {
+      "type": "object",
+      "required": ["form", "treatment"],
+      "properties": {
+        "form": {
+          "type": "string",
+          "enum": ["wordmark", "lettermark", "symbol", "symbol-wordmark"],
+          "description": "Primary logo structure"
+        },
+        "treatment": {
+          "type": "string",
+          "enum": ["geometric", "organic", "hand-drawn", "typographic"],
+          "description": "Visual treatment of the logo"
+        }
+      }
+    },
+    "photography": {
+      "type": "object",
+      "required": ["style", "subjects", "mood"],
+      "properties": {
+        "style": { "type": "string", "description": "e.g. editorial, candid, studio, documentary, lifestyle" },
+        "subjects": { "type": "string", "description": "e.g. people in motion, products in context, environments" },
+        "mood": { "type": "string", "description": "e.g. warm and energetic, cool and contemplative, raw and unfiltered" }
+      }
+    },
+    "illustration": {
+      "type": "object",
+      "required": ["style", "usage"],
+      "properties": {
+        "style": { "type": "string", "description": "e.g. line art, geometric, organic, flat, isometric, or none" },
+        "usage": { "type": "string", "description": "e.g. supporting icons only, primary visual language, data visualization, accent elements" }
+      }
+    },
+    "spacing": {
+      "type": "object",
+      "required": ["density", "grid"],
+      "properties": {
+        "density": {
+          "type": "string",
+          "enum": ["airy", "balanced", "compact"],
+          "description": "Overall spatial density of layouts"
+        },
+        "grid": { "type": "string", "description": "e.g. 12-column, fluid, asymmetric, modular" }
+      }
+    },
+    "signature_elements": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 2,
+      "maxItems": 3,
+      "description": "2-3 defining visual characteristics that make this brand instantly recognizable"
+    },
+    "voice": {
+      "type": "object",
+      "required": ["tone_words", "sample_headline"],
+      "properties": {
+        "tone_words": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 3,
+          "maxItems": 3,
+          "description": "3 adjectives that define the brand voice"
+        },
+        "sample_headline": { "type": "string", "description": "A headline that demonstrates the brand voice in action" }
+      }
+    },
+    "style_direction": {
+      "type": "string",
+      "description": "One-line summary of the overall visual direction"
+    }
   }
 }

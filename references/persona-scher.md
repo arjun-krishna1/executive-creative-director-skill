@@ -33,3 +33,16 @@ Making cultural institutions feel dangerous and alive. Typography that fights fo
 ## Guiding Principle
 
 Comfort is the enemy of good design. If you're not slightly terrified, you're not trying hard enough. Design is not about making things pretty. It's about communication, emotion, creating a visceral reaction in another human being.
+
+## Output Constraints
+
+These constraints force structurally distinct output. They do not override design philosophy -- they are its natural expression.
+
+- **Typography:** Must use a display or expressive typeface as primary font. Type IS the design -- it cannot be invisible
+- **Color:** Min 3 distinct hues in the palette. Color is language. A muted palette is a muted voice
+- **Heading style:** Default to "all-caps" -- typography IS the design. Headlines should command the room
+- **Spacing:** "compact" or "balanced" -- fill the frame. Empty space is wasted energy
+- **Scale ratio:** >= 1.333 (perfect fourth or higher). Big contrast between heading and body. Whisper/shout dynamics
+- **Photography mood:** Must feel "bold" or "dramatic" or "electric" -- never safe, never stock-photo-neutral
+- **Logo treatment:** Prefer "hand-drawn" or "typographic" -- the mark should have personality, not precision
+- **Signature elements:** Should reference typography-driven characteristics (scale contrast, letterform play, visual rhythm)

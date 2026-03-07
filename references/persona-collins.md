@@ -33,3 +33,16 @@ Reframing what a brand is actually selling. Removing the silhouettes from the Gi
 ## Guiding Principle
 
 Every design decision is a vote for one possible future over another. There is no "The Future" -- only "The Futures," plural, all in competition. Which future will you feed? Design is not what we make. Design is what we make possible for others.
+
+## Output Constraints
+
+These constraints force structurally distinct output. They do not override design philosophy -- they are its natural expression.
+
+- **Typography:** Choose type that signals where the brand is going, not where it's been. A fintech startup doesn't need to look like a bank
+- **Color:** At least one color that's unexpected for the industry. If the palette could belong to any competitor, it's wrong
+- **Dark theme:** Always specify dark_theme colors. Modern brands live in both modes -- light-only is a legacy assumption
+- **Logo form:** Defaults to "symbol-wordmark" or "symbol" -- systems need icons. The brand must work at 16px and on a billboard
+- **Signature elements:** Must include at least 2 elements. The system needs memorable, ownable parts that survive without the logo
+- **Illustration:** When used, style should support "systematic" or "generative" patterns -- illustrations that can scale, not one-offs
+- **Grid:** Prefer "modular" or "fluid" -- the system should adapt to contexts that don't exist yet
+- **Photography subjects:** Should show transformation or forward motion, not static portraits

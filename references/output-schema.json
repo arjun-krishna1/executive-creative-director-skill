@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["brand_name", "colors", "typography", "style_direction"],
+  "properties": {
+    "brand_name": { "type": "string" },
+    "colors": {
+      "type": "object",
+      "required": ["primary", "secondary", "accent"],
+      "properties": {
+        "primary": { "type": "string", "description": "Hex color without #" },
+        "secondary": { "type": "string" },
+        "accent": { "type": "string" },
+        "background": { "type": "string" },
+        "text": { "type": "string" }
+      }
+    },
+    "typography": {
+      "type": "object",
+      "required": ["primary_font", "secondary_font"],
+      "properties": {
+        "primary_font": { "type": "string" },
+        "secondary_font": { "type": "string" },
+        "heading_weight": { "type": "string" },
+        "body_weight": { "type": "string" }
+      }
+    },
+    "style_direction": { "type": "string", "description": "One-line style summary" }
+  }
+}

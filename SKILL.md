@@ -55,6 +55,7 @@ Load detailed guidance based on phase:
 | The Expressionist (Scher) | `references/persona-scher.md` | Running designer perspectives |
 | The Futurist (Collins) | `references/persona-collins.md` | Running designer perspectives |
 | Output Schema | `references/output-schema.json` | Generating persona JSON output |
+| Curated Font Library | `references/font-library.md` | Running designer perspectives |
 | Anti-Patterns | `references/anti-patterns.md` | Running perspectives |
 | Blending Guide | `references/blending-guide.md` | User wants to mix perspectives |
 
@@ -151,6 +152,12 @@ Follow this persona's philosophy, instincts, and decision-making approach exactl
 OUTPUT SCHEMA:
 Read the schema at: references/output-schema.json
 
+FONT LIBRARY:
+Read the curated font library at: references/font-library.md
+Use this as your primary source for typography choices. You may use fonts not in this library,
+but the library contains distinctive, high-quality free fonts organized by style and persona fit.
+Avoid the banned fonts listed in anti-patterns.
+
 YOUR TASK:
 1. Read both reference files
 2. Inhabit this persona's design philosophy
@@ -192,7 +199,7 @@ Before presenting perspectives to the user, validate all three results. This cat
 
 ### Checks
 
-1. **Font existence** -- Are primary_font and secondary_font real, available fonts? No made-up names. If uncertain, substitute a real font in the same style family
+1. **Font existence** -- Are primary_font and secondary_font real, available fonts? Prefer fonts from `references/font-library.md`. Fonts outside the library are acceptable if they are real, available typefaces -- but never the banned defaults from anti-patterns.md, and never made-up names
 2. **Color differentiation** -- Do the 3 perspectives produce genuinely different palettes? If 2+ share a primary color (or colors within ~20 hex distance), revise the less distinctive one
 3. **Thesis alignment** -- Does each rationale reference specific thesis sections (narrative, audience, competitive position, design direction)? Generic rationales that could apply to any brand fail this check
 4. **Persona fidelity** -- Would this output surprise someone who knows the real designer's work? If Scher picks a neutral sans-serif, Bierut uses all-caps, or Collins ignores dark_theme, something is wrong. Cross-check against each persona's Output Constraints
@@ -276,5 +283,6 @@ If the user wants to blend elements from multiple perspectives, load [references
 | persona-collins.md | The Futurist -- philosophy + output constraints | ~50 |
 | output-schema.json | JSON schema for persona output (~30 fields) | ~80 |
 | anti-patterns.md | Banned defaults, cliches, generic rationale phrases | ~70 |
+| font-library.md | Curated free font library (~100 fonts) with persona fit annotations | ~200 |
 | blending-guide.md | Rules for mixing elements across perspectives | ~50 |
 | industry-conventions.md | Visual patterns and cliches by industry | ~110 |

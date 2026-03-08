@@ -20,6 +20,8 @@ These are what Claude picks when it has no opinion. They are not bad fonts -- th
 
 These fonts are fine for body text in some contexts. They are never the right answer for a brand's primary typeface because they say nothing about who the brand is.
 
+For distinctive alternatives, see `references/font-library.md`.
+
 ## Color Cliches by Industry
 
 If your first instinct matches this list, your palette is category-trapped.

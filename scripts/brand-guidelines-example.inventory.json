@@ -84,7 +84,6 @@
     }
   ],
   "colors_used": [
-    "000000",
     "003D33",
     "00E5CC",
     "0A0A0A",
@@ -93,7 +92,6 @@
     "1AEBCF",
     "1C1C1C",
     "2A2A2A",
-    "333333",
     "33F0D5",
     "3A3A3A",
     "444444",
@@ -9736,8 +9734,8 @@
       "id": "2001:647",
       "page": "1. Principles ",
       "parent": "1",
-      "name": "Figma Brand",
-      "characters": "Figma Brand ",
+      "name": "SoloOctopus",
+      "characters": "SoloOctopus",
       "fontName": {
         "family": "IBM Plex Serif",
         "style": "SemiBold"
@@ -9891,7 +9889,7 @@
         "page": "5. Color ",
         "parent": "2",
         "name": "Color",
-        "current_hex": "2A2A2A"
+        "current_hex": "E0E0E0"
       },
       {
         "id": "2049:347",
@@ -9930,8 +9928,8 @@
       "id": "2001:647",
       "page": "1. Principles ",
       "parent": "1",
-      "name": "Figma Brand",
-      "characters": "Figma Brand ",
+      "name": "SoloOctopus",
+      "characters": "SoloOctopus",
       "fontName": {
         "family": "IBM Plex Serif",
         "style": "SemiBold"
@@ -10047,5 +10045,5 @@
       }
     }
   },
-  "generated_at": "2026-03-08T00:26:49.234Z"
+  "generated_at": "2026-03-08T00:33:13.225Z"
 }

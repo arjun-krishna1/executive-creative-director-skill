@@ -1,6 +1,6 @@
 {
   "document": "Brand Guidelines Figma: 8090",
-  "generated_at": "2026-03-08T00:26:49.237Z",
+  "generated_at": "2026-03-08T00:33:13.226Z",
   "source_of_truth_file": "brand-guidelines-example.json",
   "inventory_file": "brand-guidelines-example.inventory.json",
   "apply_order": [
@@ -26,8 +26,8 @@
           "id": "2001:647",
           "page": "1. Principles ",
           "parent": "1",
-          "name": "Figma Brand",
-          "characters": "Figma Brand ",
+          "name": "SoloOctopus",
+          "characters": "SoloOctopus",
           "fontName": {
             "family": "IBM Plex Serif",
             "style": "SemiBold"
@@ -7644,8 +7644,8 @@
           "id": "2001:647",
           "page": "1. Principles ",
           "parent": "1",
-          "name": "Figma Brand",
-          "characters": "Figma Brand ",
+          "name": "SoloOctopus",
+          "characters": "SoloOctopus",
           "fontName": {
             "family": "IBM Plex Serif",
             "style": "SemiBold"
@@ -17444,7 +17444,7 @@
           "page": "5. Color ",
           "parent": "2",
           "name": "Color",
-          "current_hex": "2A2A2A"
+          "current_hex": "E0E0E0"
         },
         {
           "id": "2049:347",

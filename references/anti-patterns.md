@@ -39,6 +39,8 @@ If your first instinct matches this list, your palette is category-trapped.
 
 **The fix:** Start from the brand's emotional territory, not its industry. A fintech brand about empowerment might use warm coral. A sustainability brand about urgency might use electric orange. The palette should be surprising enough that someone asks "why did you pick that?" -- and your answer should be specific to this brand.
 
+For distinctive palette alternatives organized by emotional territory, see `references/color-palettes.md`.
+
 ## Banned Rationale Phrases
 
 If these phrases appear in a persona's rationale, the thinking is too shallow. Replace with something specific to this brand and this thesis.
@@ -70,6 +72,8 @@ These one-liners could describe any brand. They are not directions -- they are a
 - "Elegant and refined"
 
 **The fix:** A style direction should be specific enough that someone could identify the brand from the description alone. "Architectural precision meets neighborhood warmth -- the visual equivalent of a beautifully designed local bookshop" tells you something. "Clean and modern" tells you nothing.
+
+For real examples of specific, ownable brand elements, see `references/signature-elements.md`.
 
 ## The Ultimate Test
 

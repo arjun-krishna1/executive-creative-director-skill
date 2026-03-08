@@ -80,3 +80,9 @@ For real examples of specific, ownable brand elements, see `references/signature
 **If you could swap the brand name and the output still makes sense, it's too generic.**
 
 Every color, every font, every rationale should be traceable to a specific insight from the brand thesis. If it can't be traced, it's decoration, not design.
+
+## Cross-References
+
+For actionable photography direction vocabulary, see `references/photography-vocabulary.md`.
+For logo form decision inputs, see `references/logo-decision-framework.md`.
+For headline quality examples and anti-examples, see `references/voice-examples.md`.

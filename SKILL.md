@@ -61,6 +61,9 @@ Load detailed guidance based on phase:
 | Color Palette Library | `references/color-palettes.md` | Running designer perspectives |
 | Font Pairing Guide | `references/font-pairing-guide.md` | Running designer perspectives |
 | Signature Elements Library | `references/signature-elements.md` | Running designer perspectives |
+| Photography Vocabulary | `references/photography-vocabulary.md` | Running designer perspectives |
+| Logo Decision Framework | `references/logo-decision-framework.md` | Running designer perspectives |
+| Voice Examples | `references/voice-examples.md` | Running designer perspectives |
 | Anti-Patterns | `references/anti-patterns.md` | Running perspectives |
 | Blending Guide | `references/blending-guide.md` | User wants to mix perspectives |
 | Memory & Learning | `memory/` directory | Start of every run (Phase 0) and after selection (Phase 5) |
@@ -195,6 +198,21 @@ Read the signature elements library at: references/signature-elements.md
 Use these real-world examples as inspiration for creating ownable brand elements.
 Your signature elements must be specific and inventive -- never generic descriptions like "bold typography contrasts."
 
+PHOTOGRAPHY VOCABULARY:
+Read the photography vocabulary at: references/photography-vocabulary.md
+Compose your photography direction using the exact terms from this file. Build mood from three
+dimensions: lighting + composition + post-processing. Never use generic adjectives not defined here.
+
+LOGO DECISION FRAMEWORK:
+Read the logo decision framework at: references/logo-decision-framework.md
+Before committing to a logo form and treatment, check your choice against the brand name analysis,
+primary touchpoints, and form suitability matrix. Your persona defaults are starting positions, not mandates.
+
+VOICE EXAMPLES:
+Read the voice examples at: references/voice-examples.md
+Use the archetypes and real examples to calibrate your sample_headline. Apply the brand-swap test
+before finalizing. Never use any of the anti-example patterns.
+
 YOUR TASK:
 1. Read all reference files
 2. Inhabit this persona's design philosophy
@@ -244,6 +262,9 @@ Before presenting perspectives to the user, validate all three results. This cat
 6. **Schema completeness** -- Every required field populated with a meaningful, specific value. No empty strings, no placeholder text
 7. **Signature element quality** -- Are signature_elements specific, ownable, and inventive? Compare against the quality bar in `references/signature-elements.md`. Generic descriptions like "bold typography contrasts" or "clean geometric shapes" fail this check
 8. **Anti-pattern check** -- Cross-reference against `references/anti-patterns.md`. No banned fonts as primary, no cliche palettes, no banned rationale phrases, no generic style directions
+9. **Photography specificity** -- Does each photography direction use specific vocabulary from `references/photography-vocabulary.md` (named lighting, composition, and post-processing terms)? Directions using only generic adjectives (warm, bold, clean, modern) fail this check
+10. **Logo context fit** -- Does the logo form match the brand name length and primary touchpoints from the thesis? A wordmark for a 3+ word name that needs an app icon fails. Check against `references/logo-decision-framework.md` suitability matrix
+11. **Headline brand-swap test** -- Does the sample_headline pass the brand-swap test from `references/voice-examples.md`? If replacing the brand name still makes the headline work, rewrite. Also reject any headline matching the anti-example patterns
 
 ### If a check fails
 
@@ -383,6 +404,9 @@ If the standard 6 questions were sufficient, don't write anything.
 | color-palettes.md | Curated color palettes by emotional territory with dark themes | ~200 |
 | font-pairing-guide.md | Proven font pairings from the font library by energy level | ~120 |
 | signature-elements.md | Real signature elements deconstructed with invention guide | ~200 |
+| photography-vocabulary.md | Photography style, mood, and subject vocabulary with persona fit | ~145 |
+| logo-decision-framework.md | Logo form and treatment decision inputs with contextual overrides | ~115 |
+| voice-examples.md | 36 real brand headlines by voice archetype with anti-patterns | ~115 |
 | blending-guide.md | Rules for mixing elements across perspectives | ~50 |
 | industry-conventions.md | Visual patterns and cliches by industry | ~110 |
 | memory/ (4 files) | Brand history, thesis learnings, persona stats, intake gaps | varies |

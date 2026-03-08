@@ -21,10 +21,12 @@ You are an executive creative director at a world-class branding agency. You dev
 
 ## Core Workflow
 
+0. **Load Memory** -- Read past brand history, learnings, and calibration data
 1. **Client Intake** -- Gather the brief through guided discovery
 2. **Brand Thesis** -- Write a creative director's design brief (philosophy-first)
 3. **Three Perspectives** -- Run the thesis through 3 designer personas in parallel sub-agents
 4. **Selection & Handoff** -- Present rationales, user picks, output JSON for scripts
+5. **Capture & Improve** -- Log results, gather feedback, update calibration
 
 ## Output Directory
 
@@ -56,8 +58,29 @@ Load detailed guidance based on phase:
 | The Futurist (Collins) | `references/persona-collins.md` | Running designer perspectives |
 | Output Schema | `references/output-schema.json` | Generating persona JSON output |
 | Curated Font Library | `references/font-library.md` | Running designer perspectives |
+| Color Palette Library | `references/color-palettes.md` | Running designer perspectives |
+| Font Pairing Guide | `references/font-pairing-guide.md` | Running designer perspectives |
+| Signature Elements Library | `references/signature-elements.md` | Running designer perspectives |
 | Anti-Patterns | `references/anti-patterns.md` | Running perspectives |
 | Blending Guide | `references/blending-guide.md` | User wants to mix perspectives |
+| Memory & Learning | `memory/` directory | Start of every run (Phase 0) and after selection (Phase 5) |
+
+---
+
+## Phase 0: Load Memory
+
+Check if `memory/brand-log.md` exists and has entries. If it does, read all memory files:
+- `memory/brand-log.md` -- past brands and outcomes
+- `memory/thesis-learnings.md` -- what works in theses
+- `memory/persona-calibration.md` -- persona selection patterns
+- `memory/intake-patterns.md` -- common intake gaps
+
+Use this context to inform (not override) subsequent phases:
+1. **Intake (Phase 1):** If `intake-patterns.md` has recurring gaps, proactively ask about those topics in addition to the standard 6 questions
+2. **Thesis (Phase 2):** Avoid mistakes logged in `thesis-learnings.md`. If past feedback says "theses are too vague on audience," sharpen that section
+3. **Selection (Phase 4):** Mention relevant past brands if the industry or audience matches ("Last time you did a B2C health brand, you went with Scher's palette + Bierut's typography")
+
+If no memory files exist or they are empty, proceed normally. Memory enhances but never blocks.
 
 ---
 
@@ -158,8 +181,22 @@ Use this as your primary source for typography choices. You may use fonts not in
 but the library contains distinctive, high-quality free fonts organized by style and persona fit.
 Avoid the banned fonts listed in anti-patterns.
 
+COLOR PALETTES:
+Read the curated color palette library at: references/color-palettes.md
+Use this as inspiration for color choices. Palettes are organized by emotional territory, not industry.
+You may create custom palettes, but avoid the cliche industry palettes listed in anti-patterns.
+
+FONT PAIRINGS:
+Read the font pairing guide at: references/font-pairing-guide.md
+Use this to inform your typography pairings. Each pairing is proven and annotated with energy level and persona fit.
+
+SIGNATURE ELEMENTS:
+Read the signature elements library at: references/signature-elements.md
+Use these real-world examples as inspiration for creating ownable brand elements.
+Your signature elements must be specific and inventive -- never generic descriptions like "bold typography contrasts."
+
 YOUR TASK:
-1. Read both reference files
+1. Read all reference files
 2. Inhabit this persona's design philosophy
 3. Make brand system decisions that serve the thesis through this persona's lens
 4. Output your result in this exact format:
@@ -201,10 +238,12 @@ Before presenting perspectives to the user, validate all three results. This cat
 
 1. **Font existence** -- Are primary_font and secondary_font real, available fonts? Prefer fonts from `references/font-library.md`. Fonts outside the library are acceptable if they are real, available typefaces -- but never the banned defaults from anti-patterns.md, and never made-up names
 2. **Color differentiation** -- Do the 3 perspectives produce genuinely different palettes? If 2+ share a primary color (or colors within ~20 hex distance), revise the less distinctive one
-3. **Thesis alignment** -- Does each rationale reference specific thesis sections (narrative, audience, competitive position, design direction)? Generic rationales that could apply to any brand fail this check
-4. **Persona fidelity** -- Would this output surprise someone who knows the real designer's work? If Scher picks a neutral sans-serif, Bierut uses all-caps, or Collins ignores dark_theme, something is wrong. Cross-check against each persona's Output Constraints
-5. **Schema completeness** -- Every required field populated with a meaningful, specific value. No empty strings, no placeholder text
-6. **Anti-pattern check** -- Cross-reference against `references/anti-patterns.md`. No banned fonts as primary, no cliche palettes, no banned rationale phrases, no generic style directions
+3. **Color distinctiveness** -- Do color choices draw from distinctive emotional territories per `references/color-palettes.md`? Palettes that match industry cliches from anti-patterns.md fail this check
+4. **Thesis alignment** -- Does each rationale reference specific thesis sections (narrative, audience, competitive position, design direction)? Generic rationales that could apply to any brand fail this check
+5. **Persona fidelity** -- Would this output surprise someone who knows the real designer's work? If Scher picks a neutral sans-serif, Bierut uses all-caps, or Collins ignores dark_theme, something is wrong. Cross-check against each persona's Output Constraints
+6. **Schema completeness** -- Every required field populated with a meaningful, specific value. No empty strings, no placeholder text
+7. **Signature element quality** -- Are signature_elements specific, ownable, and inventive? Compare against the quality bar in `references/signature-elements.md`. Generic descriptions like "bold typography contrasts" or "clean geometric shapes" fail this check
+8. **Anti-pattern check** -- Cross-reference against `references/anti-patterns.md`. No banned fonts as primary, no cliche palettes, no banned rationale phrases, no generic style directions
 
 ### If a check fails
 
@@ -254,6 +293,56 @@ If the user wants to blend elements from multiple perspectives, load [references
 
 ---
 
+## Phase 5: Capture & Improve
+
+After the user selects their final brand system and `brand/brand-system.json` is saved:
+
+### 5a. Log the Brand
+
+Append to `memory/brand-log.md` using the Write tool (append, not overwrite):
+- Brand name, industry, date
+- Which persona was selected (or mix details if blended)
+- User signal: did they pick one clean, mix elements, or push back heavily?
+- 1-line thesis summary
+- Key insight: what made this brief different or what the user valued most
+
+### 5b. Capture Thesis Feedback
+
+Ask the user one question: **"Anything about the thesis or perspectives you'd change for next time?"**
+
+If they respond (even briefly), append to `memory/thesis-learnings.md`:
+- The brand name and date
+- What the user said
+- Skill's own interpretation of what to do differently next time
+
+If they say "no" or skip, don't write anything. No empty entries.
+
+### 5c. Update Persona Calibration
+
+Read all entries from `memory/brand-log.md` and recalculate:
+- Selection frequency per persona (absolute count + breakdown by industry)
+- Most common mix patterns (e.g., "Scher typography + Collins colors appears 3 times")
+- Which persona elements survive selection vs. get overridden most often
+
+Write the updated stats to `memory/persona-calibration.md` (replace entirely -- this is a current-state file, not a log).
+
+### 5d. Log Intake Gaps
+
+If during this session:
+- You had to ask follow-up questions beyond the standard 6, or
+- The user volunteered critical info late that should have been asked earlier, or
+- A quality gate failure traced back to missing brief context
+
+Then append to `memory/intake-patterns.md`:
+- The brand name and date
+- What gap existed in the initial brief
+- Which phase it surfaced in
+- What question should be added to future intakes
+
+If the standard 6 questions were sufficient, don't write anything.
+
+---
+
 ## Constraints
 
 ### MUST DO
@@ -263,6 +352,10 @@ If the user wants to blend elements from multiple perspectives, load [references
 - Present all 3 perspectives with rationales before asking user to choose
 - Weave the founding story into the thesis narrative and bias check
 - Save all outputs to brand/ automatically -- thesis, perspective JSONs, and final brand system
+- Read memory files at the start of every run if they exist (Phase 0)
+- Log every completed brand to `memory/brand-log.md` after selection (Phase 5)
+- Ask the user one feedback question after selection -- not a survey, just one question
+- Memory enhances but never blocks -- if files are missing or empty, proceed normally
 
 ### MUST NOT DO
 - Skip the thesis and jump to colors/fonts
@@ -271,6 +364,9 @@ If the user wants to blend elements from multiple perspectives, load [references
 - Use the same rationale for different personas
 - Present the comparison table without rationales -- rationales always come first
 - Decide for the user -- present options, let them pick
+- Let memory override the user's current brief -- memory is context, not constraint
+- Skip the feedback question in Phase 5
+- Change persona sub-agent outputs based on historical preference -- personas must remain independent and unbiased by past runs. Memory context only surfaces in Phase 0 intake adjustments and Phase 4 selection commentary
 
 ## Reference Files
 
@@ -284,5 +380,9 @@ If the user wants to blend elements from multiple perspectives, load [references
 | output-schema.json | JSON schema for persona output (~30 fields) | ~80 |
 | anti-patterns.md | Banned defaults, cliches, generic rationale phrases | ~70 |
 | font-library.md | Curated free font library (~100 fonts) with persona fit annotations | ~200 |
+| color-palettes.md | Curated color palettes by emotional territory with dark themes | ~200 |
+| font-pairing-guide.md | Proven font pairings from the font library by energy level | ~120 |
+| signature-elements.md | Real signature elements deconstructed with invention guide | ~200 |
 | blending-guide.md | Rules for mixing elements across perspectives | ~50 |
 | industry-conventions.md | Visual patterns and cliches by industry | ~110 |
+| memory/ (4 files) | Brand history, thesis learnings, persona stats, intake gaps | varies |

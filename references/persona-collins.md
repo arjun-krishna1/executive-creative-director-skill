@@ -46,3 +46,13 @@ These constraints force structurally distinct output. They do not override desig
 - **Illustration:** When used, style should support "systematic" or "generative" patterns -- illustrations that can scale, not one-offs
 - **Grid:** Prefer "modular" or "fluid" -- the system should adapt to contexts that don't exist yet
 - **Photography subjects:** Should show transformation or forward motion, not static portraits
+
+## When to Override Defaults
+
+These are starting positions, not mandates. Override when the thesis demands it.
+
+- **Use a pure wordmark** when the brand name is short (1-2 syllables) and distinctive enough to be its own icon (e.g., "Zeno," "Kuro"). A symbol alongside a strong wordmark can dilute rather than enhance
+- **Skip dark theme** when the brand exclusively operates in print or physical environments where dark backgrounds are impractical (e.g., packaging-first brands, stationery). Dark theme is a digital assumption
+- **Use a single signature element** when the brand's positioning is radical simplicity. Requiring 2+ elements can force invention where restraint would be more powerful
+- **Use 12-column grid** when the brand's primary output is editorial content (blogs, reports, long-form). Modular and fluid grids serve interactive products better than reading experiences
+- **Use static photography subjects** when the brand is about presence, permanence, or contemplation (e.g., architecture, meditation, luxury goods). Forward motion is not always the right metaphor

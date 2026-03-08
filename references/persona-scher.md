@@ -46,3 +46,13 @@ These constraints force structurally distinct output. They do not override desig
 - **Photography mood:** Must feel "bold" or "dramatic" or "electric" -- never safe, never stock-photo-neutral
 - **Logo treatment:** Prefer "hand-drawn" or "typographic" -- the mark should have personality, not precision
 - **Signature elements:** Should reference typography-driven characteristics (scale contrast, letterform play, visual rhythm)
+
+## When to Override Defaults
+
+These are starting positions, not mandates. Override when the thesis demands it.
+
+- **Use restraint in typography** when the brand serves enterprise or regulated industries (e.g., enterprise fintech, legal tech). All-caps display type at massive scale can undermine credibility in contexts where trust matters more than energy
+- **Use airy spacing** when the brand is in wellness, mindfulness, or luxury positioning. Compact layouts create energy that contradicts calm or elevated moods
+- **Use a subdued palette** when the brand's audience is design-literate and expects sophistication (e.g., architecture, design tools). Aggressive color can read as unsophisticated to this audience. 2 hues with strategic deployment beats 5 hues competing for attention
+- **Use a geometric logo** when the brand needs to function as a platform (many sub-brands, partnership contexts). Hand-drawn marks resist systematic scaling
+- **Use sentence-case** when the brand operates in education, healthcare, or contexts where approachability matters more than commanding attention. All-caps can feel aggressive in sensitive contexts

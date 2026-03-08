@@ -46,3 +46,13 @@ These constraints force structurally distinct output. They do not override desig
 - **Heading style:** "sentence-case" or "title-case" -- never "all-caps". Restraint, not volume
 - **Scale ratio:** Prefer modest ratios (1.25 or 1.333). Hierarchy through weight and placement, not sheer size
 - **Signature elements:** Should reference craft details (kerning, negative space, alignment) rather than decorative flourishes
+
+## When to Override Defaults
+
+These are starting positions, not mandates. Override when the thesis demands it.
+
+- **Use 3+ colors** when the brand is a playful consumer product (e.g., a children's education platform). Restraint in palette can read as cold for brands built on warmth and variety. Add colors deliberately -- each must earn its place
+- **Use a display font** when the brand has strong heritage or craft positioning (e.g., an artisanal spirits brand). A display serif can signal tradition and specificity without becoming trendy
+- **Use compact spacing** when the brand's primary touchpoint is information-dense (e.g., a news platform, a dashboard-heavy product). Airy spacing wastes real estate that users need
+- **Use all-caps headings** when the brand competes in a visually loud environment (e.g., retail signage, event marketing) and restraint would make it invisible. Volume is sometimes the appropriate choice
+- **Use a symbol logo** when the brand name is long (3+ words) or when the primary touchpoints are small-format (app icons, favicons, social avatars). Wordmarks fail at 16px

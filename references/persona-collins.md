@@ -46,6 +46,7 @@ These constraints force structurally distinct output. They do not override desig
 - **Illustration:** When used, style should support "systematic" or "generative" patterns -- illustrations that can scale, not one-offs
 - **Grid:** Prefer "modular" or "fluid" -- the system should adapt to contexts that don't exist yet
 - **Photography subjects:** Should show transformation or forward motion, not static portraits
+- **Image prompts:** Photography should signal where the brand is going, not where it's been. Describe scenes that show systems, infrastructure, movement, or transformation in progress. The hero background should feel like a glimpse into the brand's future -- architectural, cinematic, forward-looking. Showcase images should depict the brand's ecosystem at work, not isolated moments
 
 ## When to Override Defaults
 

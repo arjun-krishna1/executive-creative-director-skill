@@ -1,73 +1,73 @@
 {
-  "brand_name": "Brand Guidelines Figma: Example",
+  "brand_name": "Brand Guidelines Figma (Copy)",
   "colors": {
-    "primary": "EEF3FF",
-    "secondary": "D8C3AF",
-    "accent": "C56F52",
-    "background": "EEF3FF",
-    "text": "20304A",
+    "primary": "0A0A0A",
+    "secondary": "FFFFFF",
+    "accent": "00E5CC",
+    "background": "0A0A0A",
+    "text": "FFFFFF",
     "primary_palette": [
-      "EEF3FF",
-      "D7E3FF",
-      "20304A",
-      "7D93C6",
-      "C7D3EA",
-      "465A86"
+      "0A0A0A",
+      "141414",
+      "FFFFFF",
+      "00E5CC",
+      "1C1C1C",
+      "2A2A2A"
     ],
     "secondary_palette": [
-      "D8C3AF",
-      "B99984",
-      "BFD9D7"
+      "FFFFFF",
+      "E0E0E0",
+      "B0B0B0"
     ],
     "tertiary_palette": [
-      "8A8C6A",
-      "C56F52",
-      "F2C5BC"
+      "003D33",
+      "00E5CC",
+      "66F5E5"
     ]
   },
   "typography": {
-    "primary_font": "Poppins",
-    "secondary_font": "Instrument Sans",
-    "heading_weight": "Medium",
-    "body_weight": "Medium",
+    "primary_font": "IBM Plex Serif",
+    "secondary_font": "IBM Plex Sans",
+    "heading_weight": "SemiBold",
+    "body_weight": "Regular",
     "tokens": {
       "logo_primary": {
-        "family": "Poppins",
-        "style": "Medium",
+        "family": "IBM Plex Serif",
+        "style": "SemiBold",
         "font_size": 240,
         "line_height_percent": 85,
         "tracking_percent": -2
       },
       "page_hero": {
-        "family": "Poppins",
-        "style": "Medium",
+        "family": "IBM Plex Serif",
+        "style": "SemiBold",
         "font_size": 240,
         "line_height_percent": 85,
         "tracking_percent": -2
       },
       "longform_body": {
-        "family": "Poppins",
-        "style": "Medium",
+        "family": "IBM Plex Sans",
+        "style": "Regular",
         "font_size": 64,
         "line_height_percent": 95,
         "tracking_percent": -1
       },
       "head_wordmark": {
-        "family": "Instrument Sans",
+        "family": "IBM Plex Sans",
         "style": "SemiBold",
         "font_size": 19,
         "line_height_percent": 90,
         "tracking_percent": 3
       },
       "nav_label": {
-        "family": "Instrument Sans",
+        "family": "IBM Plex Sans",
         "style": "Medium",
         "font_size": 14,
         "line_height_percent": 120,
         "tracking_percent": -2
       },
       "footer_meta": {
-        "family": "EB Garamond",
+        "family": "IBM Plex Serif",
         "style": "Medium Italic",
         "font_size": 14,
         "line_height_percent": 90,
@@ -76,22 +76,94 @@
     }
   },
   "text": {
-    "logo_primary": "example demo",
+    "logo_primary": "SoloOctopus",
     "page_heroes": {
       "logo": "Logo",
       "typography": "Typography",
-      "color": "Palette Demo"
+      "color": "Color"
     },
-    "head_wordmark_standard": "Velour & Co.",
-    "head_wordmark_principles": "Agent Branding & Co.",
-    "footer_presentation_title": "Velour & Co Presentation\nDeveloped By BrandKit",
-    "footer_copyright": "\u00a9 2024",
+    "head_wordmark_standard": "SoloOctopus",
+    "head_wordmark_principles": "SoloOctopus",
+    "footer_presentation_title": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
+    "footer_copyright": "© 2026",
     "footer_section_labels": {
       "principles": "Principles",
       "logo": "Logo",
       "typography": "Typography",
       "color": "Color"
     },
-    "color_intro": "This demo palette shifts the brand toward warm ivory, clay, and sage so the update is easy to spot in the Figma file."
+    "color_intro": "The SoloOctopus palette is built on a nocturnal canvas. Near-black is the foundation, electric teal is the signal of distributed intelligence. White provides clarity and contrast, ensuring the brand reads with confidence across digital touchpoints, decks, and podcast art.",
+
+    "principles_mission": "SoloOctopus exists to build the nervous system for agentic media — one vision orchestrating many autonomous agents to scale A-list celebrity voices without diluting them.",
+    "principles_intro": "Brand Principles define the soul of SoloOctopus. They guide every visual and strategic decision — from how we present to talent, to how we signal the future of media.",
+    "principles_typeface_description": "IBM Plex Serif is a transitional serif designed for clarity and scale. Its open counters and rational geometry make it feel like serious infrastructure — confident without being cold, precise without being sterile.",
+
+    "logo_tagline": "Distributed intelligence made visible\nin a network that never sleeps.",
+    "logo_body": "The SoloOctopus wordmark is the primary brand element. Set in IBM Plex Serif SemiBold, the name functions as both identifier and mark. The tight optical spacing treats the two words as one unit — a single organism with many arms.",
+    "logo_color_usage": "The wordmark should always appear on a black or near-black canvas. The electric teal accent may be used sparingly alongside the mark but never replaces the primary white-on-black treatment.",
+    "logo_clearspace": "Minimum clear space around the wordmark equals the cap height of the \"S\" in Solo. This ensures the mark breathes and maintains its architectural presence at any scale.",
+    "logo_scaling": "The wordmark is designed to work at extremes — from 16px favicons to billboard scale. At small sizes, ensure adequate contrast and avoid placing the mark on busy backgrounds.",
+
+    "grid_description": "The SoloOctopus grid is a 12-column modular system with generous gutters. It reflects the brand principle of airy spacing — confidence expressed through negative space, not density.",
+
+    "typography_primary_description": "IBM Plex Serif is a transitional serif designed for clarity and scale. Its open counters and rational geometry make it feel like serious infrastructure — confident without being cold, precise without being sterile.",
+    "typography_secondary_description": "IBM Plex Sans serves as the supporting voice — clean, geometric, and built for digital interfaces. Together with Plex Serif, it creates a system that signals infrastructure-grade credibility.",
+    "typography_about": "IBM Plex was designed by Mike Abbink for IBM in collaboration with Bold Monday. It expresses the ethos of a tech company rooted in craft.",
+    "typography_specimen_primary_name": "IBM Plex",
+    "typography_specimen_hero": "IBM Plex",
+    "typography_scale_font_label": "Plex Sans",
+    "typography_designer_credit": "FW\nDesigned by\nMike Abbink, Bold Monday",
+    "typography_specimen_brand_line1": "Solo",
+    "typography_specimen_brand_line2": "Octopus",
+    "typography_specimen_font_short": "IBM",
+    "typography_specimen_font_full": "Plex Serif",
+    "typography_specimen_ampersand": "&",
+    "typography_specimen_word1": "Precise",
+    "typography_specimen_word2": "Assured",
+    "typography_specimen_official": "OFFICIAL TYPEFACE OF SOLOOCTOPUS 2026\nDesigned by Mike Abbink & Bold Monday",
+    "typography_font_label_parenthetical": "(IBM Plex Serif)",
+
+    "image_silhouette_description": "SoloOctopus imagery emphasizes the tension between singular focus and distributed power. Silhouettes capture the architectural quality of the brand — clean outlines against dark canvases.",
+    "image_portrait_description": "Portraits should feel editorial and nocturnal — creators and executives in controlled environments, lit with intention. The mood is confident restraint, not performative energy.",
+    "photo_credit": "© SoloOctopus"
+  },
+
+  "color_map": {
+    "fill": {
+      "E1E1DF": "0A0A0A",
+      "F9F9F9": "141414",
+      "F7F7F7": "141414",
+      "D0CFC9": "1C1C1C",
+      "333333": "FFFFFF",
+      "000000": "FFFFFF",
+      "2F2F2F": "E0E0E0",
+      "8A8A8A": "B0B0B0",
+      "4F4F4F": "B0B0B0",
+      "1E1E1E": "F5F5F5"
+    },
+    "stroke": {
+      "BAB7B1": "2A2A2A",
+      "E1E1DF": "2A2A2A",
+      "D5D8D2": "1C1C1C",
+      "4F4F4F": "333333",
+      "B1B1B1": "333333",
+      "D0CFC9": "2A2A2A",
+      "AFC3C6": "00E5CC"
+    },
+    "swatch": {
+      "D9D4C5": "FFFFFF",
+      "B5A99B": "E0E0E0",
+      "AFC3C6": "B0B0B0",
+      "8C8B75": "003D33",
+      "9B7267": "00E5CC",
+      "E9C4C6": "66F5E5"
+    }
+  },
+
+  "font_replacement": {
+    "EB Garamond": "IBM Plex Serif",
+    "Instrument Sans": "IBM Plex Sans",
+    "Inter": "IBM Plex Sans",
+    "Poppins": "IBM Plex Sans"
   }
 }

@@ -5,7 +5,7 @@ description: Update the Figma from the JSON output through the local JSON-driven
 
 # Update Figma Workflow
 
-Use this skill to update `Brand Guidelines Figma` through the JSON workflow instead of making ad hoc manual edits.
+Use this skill to update `Brand Guidelines Figma (Copy)` through the JSON workflow instead of making ad hoc manual edits.
 
 ## What This Controls
 
@@ -25,7 +25,7 @@ Do not hand-edit the inventory or field map unless you are deliberately remappin
 
 ## Quick Start
 
-1. Open `Brand Guidelines Figma` in Figma Desktop.
+1. Open `Brand Guidelines Figma (Copy)` in Figma Desktop.
 2. Start the Figma bridge in Safe Mode if it is not already running:
 
 ```bash
@@ -102,9 +102,11 @@ node scripts/brand-guidelines-example-workflow.mjs apply
 
 This applies changes in a fixed order:
 
-1. text
-2. typography
-3. colors
+1. font_replacement -- replaces all non-brand fonts across the entire document
+2. text -- updates mapped text nodes (structural + content)
+3. typography -- applies typography tokens
+4. colors -- sets palette swatches
+5. color_map_global -- replaces all old template fill/stroke colors document-wide
 
 After a successful apply, the script refreshes the inventory and field map automatically.
 
@@ -136,7 +138,7 @@ What to put here:
 Example:
 
 ```json
-"brand_name": "Brand Guidelines Figma: example"
+"brand_name": "Brand Guidelines Figma (Copy)"
 ```
 
 ### `colors`
@@ -423,6 +425,89 @@ Controls:
 
 - The mapped intro paragraph on `5. Color`.
 
+#### Extended Content Text Fields
+
+These map to specific node IDs in the Figma template. They are applied alongside the structural text groups during `apply`.
+
+| Field | Controls |
+|-------|----------|
+| `text.principles_mission` | Mission statement on `1. Principles` |
+| `text.principles_intro` | Principles intro paragraph |
+| `text.principles_typeface_description` | Typeface description on Principles |
+| `text.logo_tagline` | Tagline text on `2. Logo` (2 nodes) |
+| `text.logo_body` | Logo usage body copy (2 nodes) |
+| `text.logo_color_usage` | Logo color usage guidelines |
+| `text.logo_clearspace` | Logo clear space rules |
+| `text.logo_scaling` | Logo scaling guidelines |
+| `text.grid_description` | Grid system description on `3. Grid System` |
+| `text.typography_primary_description` | Primary font description on `4. Typography` |
+| `text.typography_secondary_description` | Secondary font description |
+| `text.typography_about` | Font origin/history paragraph |
+| `text.typography_specimen_hero` | Large specimen display name |
+| `text.typography_specimen_primary_name` | Specimen names on Principles (2 nodes) |
+| `text.typography_scale_font_label` | Font name in the type scale table (9 nodes) |
+| `text.typography_designer_credit` | Designer credit blocks (4 nodes) |
+| `text.typography_specimen_brand_line1` | First line of brand name on specimen card |
+| `text.typography_specimen_brand_line2` | Second line of brand name on specimen card |
+| `text.typography_specimen_font_short` | Short font name on specimen card |
+| `text.typography_specimen_font_full` | Full font name on specimen card |
+| `text.typography_specimen_ampersand` | Ampersand on specimen card |
+| `text.typography_specimen_word1` | First personality word on specimen card |
+| `text.typography_specimen_word2` | Second personality word on specimen card |
+| `text.typography_specimen_official` | Official typeface declaration |
+| `text.typography_font_label_parenthetical` | Parenthetical font label (4 nodes) |
+| `text.image_silhouette_description` | Silhouette imagery description on `6. Image Library` |
+| `text.image_portrait_description` | Portrait imagery description |
+| `text.photo_credit` | Photo credits (8 nodes) |
+
+### `font_replacement`
+
+Maps old template font families to the brand's font families. During `apply`, every text node using an old font is replaced with the mapped brand font, matching the closest available weight/style.
+
+Example:
+
+```json
+"font_replacement": {
+  "EB Garamond": "IBM Plex Serif",
+  "Instrument Sans": "IBM Plex Sans",
+  "Inter": "IBM Plex Sans",
+  "Poppins": "IBM Plex Sans"
+}
+```
+
+### `color_map`
+
+Maps old template colors to the brand's colors. Applied document-wide during `apply`. All hex values must be six-character uppercase without `#`.
+
+#### `color_map.fill`
+
+Replaces solid fill colors on frames, text, rectangles, vectors, and ellipses.
+
+#### `color_map.stroke`
+
+Replaces solid stroke colors on all node types.
+
+#### `color_map.swatch`
+
+Additional fill replacements applied only to ellipse and rectangle nodes (color swatches and decorative elements).
+
+Example:
+
+```json
+"color_map": {
+  "fill": {
+    "E1E1DF": "0A0A0A",
+    "F9F9F9": "141414"
+  },
+  "stroke": {
+    "BAB7B1": "2A2A2A"
+  },
+  "swatch": {
+    "D9D4C5": "FFFFFF"
+  }
+}
+```
+
 ## Safe Editing Rules
 
 1. Change `brand-guidelines-example.json` first.
@@ -544,6 +629,53 @@ node scripts/brand-guidelines-example-workflow.mjs preview
 
 The preview should return to `0` pending changes when the JSON and Figma file match.
 
+## Image Generation
+
+After the brand system is finalized (`brand/brand-system.json` saved), generate brand images from the `image_prompts` field using the Gemini API.
+
+### Prerequisites
+
+1. Set `GOOGLE_AI_STUDIO_API_KEY` in `.env` at the project root (or export it).
+2. Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Generate Images
+
+```bash
+python scripts/generate-brand-images.py
+```
+
+This reads `brand/brand-system.json`, extracts the `image_prompts` field (hero_background + showcase_images), and generates images via Google Gemini. Output is saved to `brand/images/`.
+
+Files produced:
+
+- `brand/images/hero-background.png` -- full-bleed background for the Principles page
+- `brand/images/{label}.png` -- one file per showcase image
+- `brand/images/manifest.json` -- list of generated files with labels and types
+
+### Push Images to Figma
+
+After generating images, push them into the connected Figma file:
+
+```bash
+node scripts/brand-guidelines-example-workflow.mjs images
+```
+
+This reads `brand/images/manifest.json`, finds the target "Image" frames in the Figma document, and sets image fills from the generated files.
+
+### Regenerate a Single Image
+
+To regenerate just the hero background or a specific showcase image, edit the `image_prompts` in `brand/brand-system.json` and rerun:
+
+```bash
+python scripts/generate-brand-images.py
+```
+
+All images are regenerated each run. To preserve specific images, move them out of `brand/images/` before running.
+
 ## Schema Note
 
-`references/output-schema.json` includes `style_direction`, but the current live workflow file `brand-guidelines-example.json` is optimized for the mapped Figma update process and does not currently require or apply `style_direction`.
+`references/output-schema.json` includes `style_direction` and `image_prompts`, but the current live workflow file `brand-guidelines-example.json` is optimized for the mapped Figma update process and does not currently require or apply `style_direction`. The `image_prompts` field is consumed by `scripts/generate-brand-images.py`, not by the workflow script directly.

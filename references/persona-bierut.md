@@ -46,6 +46,7 @@ These constraints force structurally distinct output. They do not override desig
 - **Heading style:** "sentence-case" or "title-case" -- never "all-caps". Restraint, not volume
 - **Scale ratio:** Prefer modest ratios (1.25 or 1.333). Hierarchy through weight and placement, not sheer size
 - **Signature elements:** Should reference craft details (kerning, negative space, alignment) rather than decorative flourishes
+- **Image prompts:** Photography should serve the brand, not perform. Prefer controlled lighting, generous negative space in compositions, environmental portraits over action shots. Describe scenes that feel editorial and understated -- a quiet confidence the viewer feels without being told. The hero background should ground the brand in its real world, not an aspirational fantasy
 
 ## When to Override Defaults
 

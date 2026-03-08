@@ -43,6 +43,7 @@ All outputs are saved automatically. Create a `brand/` directory in the current 
 | Phase 3 | `brand/perspective-collins.json` | JSON |
 | Phase 4 | `brand/brand-system.json` | JSON (final selected/blended) |
 | Phase 4.5 | `brand/brand-figma.json` | JSON (Figma workflow input) |
+| Post-Phase 4 | `brand/images/*.png` | Generated via `scripts/generate-brand-images.py` |
 
 Use the Write tool to save each file at the moment it is produced. Do not wait until the end.
 
@@ -71,6 +72,7 @@ Load detailed guidance based on phase:
 | Figma Bridge Rules | `references/figma-bridge.md` | Transforming brand system to Figma JSON (Phase 4.5) |
 | Decision Frameworks | `references/decision-frameworks.md` | Choosing between options in libraries |
 | Output Example | `references/output-example.json` | Sub-agent calibration for JSON output |
+| Image Generation | `scripts/generate-brand-images.py` | After final brand-system.json is saved (Phase 4) |
 | Memory & Learning | `memory/` directory | Start of every run (Phase 0) and after selection (Phase 5) |
 
 ---
@@ -250,7 +252,8 @@ YOUR TASK:
 1. Read all required reference files. Read contextual references as needed for your decisions
 2. Inhabit this persona's design philosophy
 3. Make brand system decisions that serve the thesis through this persona's lens
-4. Output your result in this exact format:
+4. Generate image_prompts that bring the brand world to life visually (see below)
+5. Output your result in this exact format:
 
 PERSPECTIVE: [Persona Name]
 
@@ -261,6 +264,22 @@ JSON:
 {
   ... matching output-schema.json exactly ...
 }
+
+IMAGE PROMPT GUIDANCE:
+Your JSON must include an "image_prompts" field with:
+- "hero_background": A single detailed prompt for the full-bleed background image on the
+  Principles page. This is the first thing anyone sees -- it must capture the emotional core
+  of the brand thesis. Ground it in the founding story, the photography mood and style you
+  chose, and the brand's color palette. Describe a specific scene, not a generic concept.
+- "showcase_images": 3-5 prompts for editorial/lifestyle images across the deck. Each should
+  depict a different facet of the brand's world -- its people, environment, product in context,
+  or brand texture. Use the thesis narrative, audience description, and competitive position
+  to make each prompt specific to THIS brand, not interchangeable with any competitor.
+
+Write prompts as rich scene descriptions: lighting, composition, color temperature, texture,
+subject matter, atmosphere. Reference the brand's hex colors by describing their visual
+qualities (e.g. "deep midnight navy" not "#1A2B3C"). Include a negative_prompt for the hero
+to exclude cliches, stock-photo aesthetics, and visual patterns listed in anti-patterns.
 ```
 
 ### Execution
@@ -308,6 +327,7 @@ Before presenting perspectives to the user, validate all three results. This cat
 9. **Photography specificity** -- Does each photography direction use specific vocabulary from `references/photography-vocabulary.md` (named lighting, composition, and post-processing terms)? Directions using only generic adjectives (warm, bold, clean, modern) fail this check
 10. **Logo context fit** -- Does the logo form match the brand name length and primary touchpoints from the thesis? A wordmark for a 3+ word name that needs an app icon fails. Check against `references/logo-decision-framework.md` suitability matrix
 11. **Headline brand-swap test** -- Does the sample_headline pass the brand-swap test from `references/voice-examples.md`? If replacing the brand name still makes the headline work, rewrite. Also reject any headline matching the anti-example patterns
+12. **Image prompt quality** -- Does `hero_background.prompt` describe a specific scene grounded in the brand thesis, or is it a generic description that could apply to any brand? Do showcase_images cover different facets of the brand world? Prompts that read like stock photo search queries fail this check
 
 ### If a check fails
 
@@ -356,6 +376,7 @@ After the rationales, include a condensed comparison table for at-a-glance refer
 | Primary color | ... | ... | ... |
 | Typography | ... | ... | ... |
 | Style direction | ... | ... | ... |
+| Hero image direction | ... | ... | ... |
 
 ### Step 3: User Selection
 
@@ -406,6 +427,16 @@ Transform `brand/brand-system.json` into Figma-ready JSON. This is a mechanical 
 ### Key Rule
 
 In the Figma JSON, `colors.primary` is set to the `background` value (= `primary_palette[0]`), NOT to the brand-system.json primary color. The brand-system.json primary is used as a blend source for derived swatches. This satisfies the workflow script's consistency rule: `primary == primary_palette[0] == background`.
+
+### Step 5: Generate Brand Images
+
+After `brand/brand-system.json` is saved, inform the user they can generate brand images:
+
+```
+python scripts/generate-brand-images.py
+```
+
+This reads the `image_prompts` from the brand system and generates images via the Gemini API, saving them to `brand/images/`. The hero background and showcase images can then be pushed into the Figma template using the workflow script's `images` command.
 
 ---
 
@@ -507,7 +538,7 @@ If the standard 6 questions were sufficient, don't write anything.
 | persona-bierut.md | The Servant -- philosophy + output constraints + override conditions | ~65 |
 | persona-scher.md | The Expressionist -- philosophy + output constraints + override conditions | ~65 |
 | persona-collins.md | The Futurist -- philosophy + output constraints + override conditions | ~65 |
-| output-schema.json | JSON schema for persona output (~30 fields) | ~120 |
+| output-schema.json | JSON schema for persona output (~30 fields, including image_prompts) | ~150 |
 | anti-patterns.md | Banned defaults, cliches, generic rationale phrases + good alternatives | ~120 |
 | font-library.md | Curated free font library (~80 fonts) with persona fit annotations | ~138 |
 | color-palettes.md | Curated color palettes by emotional territory with dark themes | ~651 |

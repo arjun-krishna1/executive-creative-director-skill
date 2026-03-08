@@ -46,6 +46,7 @@ These constraints force structurally distinct output. They do not override desig
 - **Photography mood:** Must feel "bold" or "dramatic" or "electric" -- never safe, never stock-photo-neutral
 - **Logo treatment:** Prefer "hand-drawn" or "typographic" -- the mark should have personality, not precision
 - **Signature elements:** Should reference typography-driven characteristics (scale contrast, letterform play, visual rhythm)
+- **Image prompts:** Photography must fight for attention -- bold, dramatic, high-contrast. Describe scenes with strong color saturation, theatrical lighting, collision of elements. The hero background should feel like a poster for the brand's world -- arresting enough to stop someone mid-scroll. Showcase images should have the energy of a magazine editorial, not a corporate brochure
 
 ## When to Override Defaults
 

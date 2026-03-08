@@ -1,5 +1,5 @@
 {
-  "document": "Brand Guidelines Figma: Example",
+  "document": "Brand Guidelines Figma: 8090",
   "pages": [
     {
       "id": "2001:22",
@@ -39,125 +39,72 @@
   ],
   "fonts_used": [
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "Medium Italic"
     },
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "Regular"
     },
     {
-      "family": "Instrument Sans",
+      "family": "IBM Plex Sans",
       "style": "Medium"
     },
     {
-      "family": "Instrument Sans",
+      "family": "IBM Plex Sans",
       "style": "SemiBold"
     },
     {
-      "family": "Instrument Sans",
+      "family": "IBM Plex Sans",
       "style": "Regular"
     },
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "Italic"
     },
     {
-      "family": "Poppins",
-      "style": "Medium"
-    },
-    {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "SemiBold"
     },
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "Medium"
     },
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "SemiBold Italic"
     },
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "Bold"
     },
     {
-      "family": "EB Garamond",
+      "family": "IBM Plex Serif",
       "style": "Bold Italic"
-    },
-    {
-      "family": "EB Garamond",
-      "style": "ExtraBold"
-    },
-    {
-      "family": "EB Garamond",
-      "style": "ExtraBold Italic"
-    },
-    {
-      "family": "Inter",
-      "style": "Regular"
     }
   ],
   "colors_used": [
     "000000",
-    "1E1E1E",
-    "20304A",
-    "2F2F2F",
+    "003D33",
+    "00E5CC",
+    "0A0A0A",
+    "0F0F0F",
+    "141414",
+    "1AEBCF",
+    "1C1C1C",
+    "2A2A2A",
     "333333",
-    "465A86",
-    "474959",
-    "4F4F4F",
-    "525467",
-    "606278",
-    "6E708C",
-    "6F6F6F",
-    "797CA2",
-    "7D93C6",
-    "83807A",
-    "888BB9",
-    "8A8A8A",
-    "8A8C6A",
-    "8C8B75",
-    "8F8C86",
-    "9498CD",
-    "9B7267",
-    "9B968F",
-    "9FA3E0",
-    "A1A1A1",
-    "A6A6A0",
-    "AFC3C6",
-    "B1B1B1",
-    "B1B3AC",
-    "B5A99B",
-    "B8B8B8",
-    "B99984",
-    "BAB7B1",
-    "BFD9D7",
-    "C56F52",
-    "C6C3BD",
-    "C7D3EA",
-    "CFCFCF",
-    "D0CBC4",
-    "D0CFC9",
-    "D5D8D2",
-    "D7E3FF",
-    "D8C3AF",
-    "D9D4C5",
-    "DCD9D3",
-    "DEFF07",
+    "33F0D5",
+    "3A3A3A",
+    "444444",
+    "4DF5DA",
+    "666666",
+    "66F5E5",
+    "80F8EA",
+    "99FAF0",
+    "B0B0B0",
     "E0E0E0",
-    "E1E1DF",
-    "E9C4C6",
-    "EDE9E3",
-    "EEF3FF",
-    "EFEFEF",
-    "F2C5BC",
-    "F3F1EB",
-    "F52702",
-    "F7F7F7",
-    "F9F9F9",
-    "FAFAF7",
+    "F5F5F5",
     "FFFFFF"
   ],
   "text_groups": {
@@ -166,10 +113,10 @@
         "id": "2076:278",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -186,10 +133,10 @@
         "id": "2084:510",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -206,10 +153,10 @@
         "id": "2076:243",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -226,10 +173,10 @@
         "id": "2076:238",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -246,10 +193,10 @@
         "id": "2076:233",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -266,10 +213,10 @@
         "id": "2076:228",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -286,10 +233,10 @@
         "id": "2076:223",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -306,10 +253,10 @@
         "id": "2076:219",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -326,10 +273,10 @@
         "id": "2084:72",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -346,10 +293,10 @@
         "id": "2084:122",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -366,10 +313,10 @@
         "id": "2084:211",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -386,10 +333,10 @@
         "id": "2084:246",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -406,10 +353,10 @@
         "id": "2084:377",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -426,10 +373,10 @@
         "id": "2084:403",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -446,10 +393,10 @@
         "id": "2084:413",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -466,10 +413,10 @@
         "id": "2084:644",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -487,9 +434,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -507,9 +454,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -526,10 +473,10 @@
         "id": "2084:533",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -546,10 +493,10 @@
         "id": "2084:670",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -567,9 +514,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -587,9 +534,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -607,9 +554,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -626,10 +573,10 @@
         "id": "2076:570",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -646,10 +593,10 @@
         "id": "2076:565",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -666,10 +613,10 @@
         "id": "2076:560",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -686,10 +633,10 @@
         "id": "2076:555",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -706,10 +653,10 @@
         "id": "2076:550",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -726,10 +673,10 @@
         "id": "2076:540",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -746,10 +693,10 @@
         "id": "2076:535",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -766,10 +713,10 @@
         "id": "2076:530",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -786,10 +733,10 @@
         "id": "2076:525",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -806,10 +753,10 @@
         "id": "2076:520",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -826,10 +773,10 @@
         "id": "2076:516",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -846,10 +793,10 @@
         "id": "2076:492",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -866,10 +813,10 @@
         "id": "2082:613",
         "page": "3. Grid System ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -886,10 +833,10 @@
         "id": "2082:608",
         "page": "3. Grid System ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -906,10 +853,10 @@
         "id": "2082:598",
         "page": "3. Grid System ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -926,10 +873,10 @@
         "id": "2082:714",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -946,10 +893,10 @@
         "id": "2082:706",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -966,10 +913,10 @@
         "id": "2082:698",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -986,10 +933,10 @@
         "id": "2082:690",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1006,10 +953,10 @@
         "id": "2082:682",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1026,10 +973,10 @@
         "id": "2082:674",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1046,10 +993,10 @@
         "id": "2082:666",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1066,10 +1013,10 @@
         "id": "2082:658",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1086,10 +1033,10 @@
         "id": "2082:650",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1106,10 +1053,10 @@
         "id": "2082:642",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1126,10 +1073,10 @@
         "id": "2082:634",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1146,10 +1093,10 @@
         "id": "2082:626",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1166,10 +1113,10 @@
         "id": "2082:622",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1186,10 +1133,10 @@
         "id": "2082:618",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1206,10 +1153,10 @@
         "id": "2082:846",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1226,10 +1173,10 @@
         "id": "2082:841",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1246,10 +1193,10 @@
         "id": "2082:836",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1266,10 +1213,10 @@
         "id": "2082:831",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1286,10 +1233,10 @@
         "id": "2082:875",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1306,10 +1253,10 @@
         "id": "2082:826",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1326,10 +1273,10 @@
         "id": "2082:870",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1346,10 +1293,10 @@
         "id": "2082:821",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1366,10 +1313,10 @@
         "id": "2082:865",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1386,10 +1333,10 @@
         "id": "2082:816",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1406,10 +1353,10 @@
         "id": "2082:811",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1426,10 +1373,10 @@
         "id": "2082:806",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1446,10 +1393,10 @@
         "id": "2082:801",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1466,10 +1413,10 @@
         "id": "2082:860",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1486,10 +1433,10 @@
         "id": "2082:855",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1506,10 +1453,10 @@
         "id": "2082:851",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1526,10 +1473,10 @@
         "id": "2082:797",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1546,10 +1493,10 @@
         "id": "2082:931",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1566,10 +1513,10 @@
         "id": "2082:917",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1586,10 +1533,10 @@
         "id": "2082:926",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1606,10 +1553,10 @@
         "id": "2082:912",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1626,10 +1573,10 @@
         "id": "2082:922",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1646,10 +1593,10 @@
         "id": "2082:908",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "Velour & Co Presentation Developed By BrandKit",
-        "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+        "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+        "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1668,10 +1615,10 @@
         "id": "2076:279",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1688,10 +1635,10 @@
         "id": "2084:511",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1708,10 +1655,10 @@
         "id": "2076:244",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1728,10 +1675,10 @@
         "id": "2076:239",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1748,10 +1695,10 @@
         "id": "2076:234",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1768,10 +1715,10 @@
         "id": "2076:229",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1788,10 +1735,10 @@
         "id": "2076:224",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1808,10 +1755,10 @@
         "id": "2076:220",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1828,10 +1775,10 @@
         "id": "2084:73",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1848,10 +1795,10 @@
         "id": "2084:123",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1868,10 +1815,10 @@
         "id": "2084:212",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1888,10 +1835,10 @@
         "id": "2084:247",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1908,10 +1855,10 @@
         "id": "2084:378",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1928,10 +1875,10 @@
         "id": "2084:404",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1948,10 +1895,10 @@
         "id": "2084:414",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1968,10 +1915,10 @@
         "id": "2084:645",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -1989,9 +1936,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "© 2024",
-        "characters": "© 2024",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2009,9 +1956,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "© 2024",
-        "characters": "© 2024",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2028,10 +1975,10 @@
         "id": "2084:534",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2048,10 +1995,10 @@
         "id": "2084:671",
         "page": "1. Principles ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2069,9 +2016,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "© 2024",
-        "characters": "© 2024",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2089,9 +2036,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "© 2024",
-        "characters": "© 2024",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2109,9 +2056,9 @@
         "page": "1. Principles ",
         "parent": "Footer",
         "name": "© 2024",
-        "characters": "© 2024",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2128,10 +2075,10 @@
         "id": "2076:561",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2148,10 +2095,10 @@
         "id": "2076:556",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2168,10 +2115,10 @@
         "id": "2076:551",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2188,10 +2135,10 @@
         "id": "2076:541",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2208,10 +2155,10 @@
         "id": "2076:536",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2228,10 +2175,10 @@
         "id": "2076:531",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2248,10 +2195,10 @@
         "id": "2076:526",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2268,10 +2215,10 @@
         "id": "2076:521",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2288,10 +2235,10 @@
         "id": "2076:517",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2308,10 +2255,10 @@
         "id": "2076:493",
         "page": "2. Logo ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2328,10 +2275,10 @@
         "id": "2082:614",
         "page": "3. Grid System ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2348,10 +2295,10 @@
         "id": "2082:609",
         "page": "3. Grid System ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2368,10 +2315,10 @@
         "id": "2082:599",
         "page": "3. Grid System ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2388,10 +2335,10 @@
         "id": "2082:707",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2408,10 +2355,10 @@
         "id": "2082:699",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2428,10 +2375,10 @@
         "id": "2082:691",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2448,10 +2395,10 @@
         "id": "2082:683",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2468,10 +2415,10 @@
         "id": "2021:256",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2488,10 +2435,10 @@
         "id": "2082:667",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2508,10 +2455,10 @@
         "id": "2082:659",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2528,10 +2475,10 @@
         "id": "2082:651",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2548,10 +2495,10 @@
         "id": "2082:643",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2568,10 +2515,10 @@
         "id": "2082:635",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2588,10 +2535,10 @@
         "id": "2082:627",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2608,10 +2555,10 @@
         "id": "2082:623",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2628,10 +2575,10 @@
         "id": "2082:619",
         "page": "4. Typography ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2648,10 +2595,10 @@
         "id": "2082:847",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2668,10 +2615,10 @@
         "id": "2082:842",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2688,10 +2635,10 @@
         "id": "2082:837",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2708,10 +2655,10 @@
         "id": "2082:832",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2728,10 +2675,10 @@
         "id": "2082:876",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2748,10 +2695,10 @@
         "id": "2082:827",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2768,10 +2715,10 @@
         "id": "2082:871",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2788,10 +2735,10 @@
         "id": "2082:822",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2808,10 +2755,10 @@
         "id": "2082:866",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2828,10 +2775,10 @@
         "id": "2082:817",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2848,10 +2795,10 @@
         "id": "2082:812",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2868,10 +2815,10 @@
         "id": "2082:807",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2888,10 +2835,10 @@
         "id": "2082:802",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2908,10 +2855,10 @@
         "id": "2082:861",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2928,10 +2875,10 @@
         "id": "2082:856",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2948,10 +2895,10 @@
         "id": "2082:852",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2968,10 +2915,10 @@
         "id": "2082:798",
         "page": "5. Color ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -2988,10 +2935,10 @@
         "id": "2082:932",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -3008,10 +2955,10 @@
         "id": "2082:918",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -3028,10 +2975,10 @@
         "id": "2082:927",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -3048,10 +2995,10 @@
         "id": "2082:913",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -3068,10 +3015,10 @@
         "id": "2082:923",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -3088,10 +3035,10 @@
         "id": "2082:909",
         "page": "6. Image Library ",
         "parent": "Footer",
-        "name": "© 2024",
-        "characters": "© 2024",
+        "name": "© 2026",
+        "characters": "© 2026",
         "fontName": {
-          "family": "EB Garamond",
+          "family": "IBM Plex Serif",
           "style": "Medium Italic"
         },
         "fontSize": 14,
@@ -3114,7 +3061,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3134,7 +3081,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3154,7 +3101,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3174,7 +3121,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3194,7 +3141,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3214,7 +3161,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3234,7 +3181,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3254,7 +3201,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3274,7 +3221,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3294,7 +3241,7 @@
           "name": "Principles",
           "characters": "Principles",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3316,7 +3263,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3336,7 +3283,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3356,7 +3303,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3376,7 +3323,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3396,7 +3343,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3416,7 +3363,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3436,7 +3383,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3456,7 +3403,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3476,7 +3423,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3496,7 +3443,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3516,7 +3463,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3536,7 +3483,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3556,7 +3503,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3576,7 +3523,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3596,7 +3543,7 @@
           "name": "Logo",
           "characters": "Logo",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3618,7 +3565,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3638,7 +3585,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3658,7 +3605,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3678,7 +3625,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3698,7 +3645,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3718,7 +3665,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3738,7 +3685,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3758,7 +3705,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3778,7 +3725,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3798,7 +3745,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3818,7 +3765,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3838,7 +3785,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3858,7 +3805,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3878,7 +3825,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3898,7 +3845,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3918,7 +3865,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3938,7 +3885,7 @@
           "name": "Typography",
           "characters": "Typography",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3960,7 +3907,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -3980,7 +3927,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4000,7 +3947,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4020,7 +3967,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4040,7 +3987,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4060,7 +4007,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4080,7 +4027,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4100,7 +4047,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4120,7 +4067,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4140,7 +4087,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4160,7 +4107,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4180,7 +4127,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4200,7 +4147,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4220,7 +4167,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4240,7 +4187,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4260,7 +4207,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4280,7 +4227,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4300,7 +4247,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4320,7 +4267,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4340,7 +4287,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4360,7 +4307,7 @@
           "name": "Color",
           "characters": "Color",
           "fontName": {
-            "family": "EB Garamond",
+            "family": "IBM Plex Serif",
             "style": "Medium Italic"
           },
           "fontSize": 14,
@@ -4377,13 +4324,513 @@
     },
     "head_wordmark_standard": [
       {
+        "id": "I2001:1142;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:517;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2001:1048;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2001:879;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2001:860;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2001:636;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2001:577;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2001:648;105:410",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:119;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:208;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:218;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:273;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:343;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:396;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:400;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:410;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:420;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:651;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:491;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:682;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:540;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:677;105:407",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:542;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:598;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2084:619;105:378",
+        "page": "1. Principles ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
         "id": "I2072:251;105:407",
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4401,9 +4848,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4421,9 +4868,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4441,9 +4888,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4461,9 +4908,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4481,9 +4928,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4501,9 +4948,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4521,9 +4968,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4541,9 +4988,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4561,9 +5008,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4581,9 +5028,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4601,9 +5048,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4621,9 +5068,9 @@
         "page": "2. Logo ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4641,9 +5088,9 @@
         "page": "3. Grid System ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4661,9 +5108,9 @@
         "page": "3. Grid System ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4681,9 +5128,9 @@
         "page": "3. Grid System ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4701,9 +5148,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4721,9 +5168,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4741,9 +5188,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4761,9 +5208,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4781,9 +5228,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4801,9 +5248,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4821,9 +5268,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4841,9 +5288,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4861,9 +5308,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4881,9 +5328,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4901,9 +5348,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4921,9 +5368,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4941,9 +5388,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4961,9 +5408,9 @@
         "page": "4. Typography ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -4981,9 +5428,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5001,9 +5448,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5021,9 +5468,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5041,9 +5488,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5061,9 +5508,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5081,9 +5528,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5101,9 +5548,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5121,9 +5568,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5141,9 +5588,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5161,9 +5608,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5181,9 +5628,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5201,9 +5648,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5221,9 +5668,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5241,9 +5688,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5261,9 +5708,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5281,9 +5728,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5301,9 +5748,9 @@
         "page": "5. Color ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5321,9 +5768,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5341,9 +5788,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5361,9 +5808,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5381,9 +5828,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5401,9 +5848,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5421,9 +5868,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5441,9 +5888,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5461,9 +5908,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5481,9 +5928,9 @@
         "page": "6. Image Library ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Velour & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5503,9 +5950,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5523,9 +5970,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5543,9 +5990,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5563,9 +6010,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5583,9 +6030,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5603,9 +6050,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5623,9 +6070,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5643,9 +6090,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5663,9 +6110,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5683,9 +6130,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5703,9 +6150,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5723,9 +6170,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5743,9 +6190,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5763,9 +6210,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5783,9 +6230,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5803,9 +6250,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5823,9 +6270,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5843,9 +6290,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5863,9 +6310,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5883,9 +6330,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5903,9 +6350,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5923,9 +6370,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5943,9 +6390,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5963,9 +6410,9 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -5983,9 +6430,1129 @@
         "page": "1. Principles ",
         "parent": "Head",
         "name": "Velour & Co.",
-        "characters": "Agent Branding & Co.",
+        "characters": "SoloOctopus",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2072:251;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2076:593;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2072:210;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2061:542;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:635;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2017:624;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2061:502;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2061:446;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2061:414;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2017:553;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2059:210;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2002:459;105:407",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2002:446;105:410",
+        "page": "2. Logo ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:970;105:407",
+        "page": "3. Grid System ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1374;105:407",
+        "page": "3. Grid System ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:907;105:410",
+        "page": "3. Grid System ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1893;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2025:174;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1882;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2022:171;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2021:259;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2021:212;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2020:188;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2020:161;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1998;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1839;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1794;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1753;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1709;105:407",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2018:1696;105:410",
+        "page": "4. Typography ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:1733;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:1701;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:1627;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:1529;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:1518;105:407",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2050:809;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:1169;105:407",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2049:641;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:819;105:407",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:725;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:593;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:339;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2041:148;105:378",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2028:248;105:407",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2028:167;105:407",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2025:967;105:407",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2025:954;105:410",
+        "page": "5. Color ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1074;105:378",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1288;105:407",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1270;105:378",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1231;105:378",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1221;105:407",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1212;105:378",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1165;105:378",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1148;105:407",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
+          "style": "SemiBold"
+        },
+        "fontSize": 19,
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 89.99999761581421
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 3
+        }
+      },
+      {
+        "id": "I2051:1114;105:410",
+        "page": "6. Image Library ",
+        "parent": "Head",
+        "name": "Velour & Co.",
+        "characters": "SoloOctopus",
+        "fontName": {
+          "family": "IBM Plex Sans",
           "style": "SemiBold"
         },
         "fontSize": 19,
@@ -6007,7 +7574,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6027,7 +7594,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6047,7 +7614,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6067,7 +7634,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6087,7 +7654,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6107,7 +7674,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6127,7 +7694,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6147,7 +7714,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6167,7 +7734,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6187,7 +7754,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6207,7 +7774,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6227,7 +7794,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6247,7 +7814,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6267,7 +7834,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6287,7 +7854,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6307,7 +7874,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6327,7 +7894,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6347,7 +7914,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6367,7 +7934,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6387,7 +7954,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6407,7 +7974,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6427,7 +7994,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6447,7 +8014,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6467,7 +8034,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6487,7 +8054,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6507,7 +8074,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6527,7 +8094,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6547,7 +8114,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6567,7 +8134,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6587,7 +8154,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6607,7 +8174,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6627,7 +8194,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6647,7 +8214,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6667,7 +8234,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6687,7 +8254,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6707,7 +8274,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6727,7 +8294,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6747,7 +8314,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6767,7 +8334,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6787,7 +8354,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6807,7 +8374,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6827,7 +8394,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6847,7 +8414,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6867,7 +8434,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6887,7 +8454,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6907,7 +8474,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6927,7 +8494,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6947,7 +8514,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6967,7 +8534,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -6987,7 +8554,7 @@
         "name": "Page Type:",
         "characters": "Page Type:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7009,7 +8576,7 @@
         "name": "[Principles / Bold]",
         "characters": "[Principles / Bold]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7029,7 +8596,7 @@
         "name": "[Principles / Bold]",
         "characters": "[Principles / Bold]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7049,7 +8616,7 @@
         "name": "[Principles / Mission]",
         "characters": "[Principles / Mission]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7069,7 +8636,7 @@
         "name": "[Principles / Disc.]",
         "characters": "[Principles / Disc.]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7089,7 +8656,7 @@
         "name": "[Principles / Intro]",
         "characters": "[Principles / Intro]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7109,7 +8676,7 @@
         "name": "[Principles / Index]",
         "characters": "[Principles / Index]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7129,7 +8696,7 @@
         "name": "[Principles / Cover]",
         "characters": "[Principles / Cover]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7149,7 +8716,7 @@
         "name": "[Color / Secondary]",
         "characters": "[Color / Secondary]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7169,7 +8736,7 @@
         "name": "[Color / Primary]",
         "characters": "[Color / Primary]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7189,7 +8756,7 @@
         "name": "[Color / Palette]",
         "characters": "[Color / Palette]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7209,7 +8776,7 @@
         "name": "[Color / Combination]",
         "characters": "[Color / Combination]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7229,7 +8796,7 @@
         "name": "[Imagery / Gallery]",
         "characters": "[Imagery / Gallery]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7249,7 +8816,7 @@
         "name": "[Typography / Base]",
         "characters": "[Typography / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7269,7 +8836,7 @@
         "name": "[Typography / Base]",
         "characters": "[Typography / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7289,7 +8856,7 @@
         "name": "[Principles / Bold]",
         "characters": "[Principles / Bold]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7309,7 +8876,7 @@
         "name": "[Principles / Bold]",
         "characters": "[Principles / Bold]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7329,7 +8896,7 @@
         "name": "[Logo / Application]",
         "characters": "[Logo / Application]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7349,7 +8916,7 @@
         "name": "[Logo / Application]",
         "characters": "[Logo / Application]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7369,7 +8936,7 @@
         "name": "[Logo / Application]",
         "characters": "[Logo / Application]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7389,7 +8956,7 @@
         "name": "[Logo / Application]",
         "characters": "[Logo / Application]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7409,7 +8976,7 @@
         "name": "[Logo / Color]",
         "characters": "[Logo / Color]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7429,7 +8996,7 @@
         "name": "Page:",
         "characters": "Page:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7449,7 +9016,7 @@
         "name": "[Logo / Title]",
         "characters": "[Logo / Title]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7469,7 +9036,7 @@
         "name": "Page:",
         "characters": "Page:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7489,7 +9056,7 @@
         "name": "[Logo / Index]",
         "characters": "[Logo / Index]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7509,7 +9076,7 @@
         "name": "[Logo / Base]",
         "characters": "[Logo / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7529,7 +9096,7 @@
         "name": "[Grid / Base]",
         "characters": "[Grid / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7549,7 +9116,7 @@
         "name": "[Typography / Index]",
         "characters": "[Typography / Index]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7569,7 +9136,7 @@
         "name": "[Typography / Scale]",
         "characters": "[Typography / Scale]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7589,7 +9156,7 @@
         "name": "[Typography / Base]",
         "characters": "[Typography / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7609,7 +9176,7 @@
         "name": "[Typography / Index]",
         "characters": "[Typography / Index]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7629,7 +9196,7 @@
         "name": "[Typography / Base]",
         "characters": "[Typography / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7649,7 +9216,7 @@
         "name": "[Color / Combination]",
         "characters": "[Color / Combination]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7669,7 +9236,7 @@
         "name": "[Color / Combination]",
         "characters": "[Color / Combination]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7689,7 +9256,7 @@
         "name": "[Color / Combination]",
         "characters": "[Color / Combination]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7709,7 +9276,7 @@
         "name": "[Color / Combination]",
         "characters": "[Color / Combination]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7729,7 +9296,7 @@
         "name": "[Color / Combination]",
         "characters": "[Color / Combination]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7749,7 +9316,7 @@
         "name": "[Color / Greyscale]",
         "characters": "[Color / Greyscale]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7769,7 +9336,7 @@
         "name": "[Color / Neutral]",
         "characters": "[Color / Neutral]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7789,7 +9356,7 @@
         "name": "[Color / Tertiary]",
         "characters": "[Color / Tertiary]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7809,7 +9376,7 @@
         "name": "[Color / Secondary]",
         "characters": "[Color / Secondary]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7829,7 +9396,7 @@
         "name": "[Color / Primary]",
         "characters": "[Color / Primary]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7849,7 +9416,7 @@
         "name": "[Color / Palette]",
         "characters": "[Color / Palette]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7869,7 +9436,7 @@
         "name": "[Color / Index]",
         "characters": "[Color / Index]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7889,7 +9456,7 @@
         "name": "[Color / Base]",
         "characters": "[Color / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7909,7 +9476,7 @@
         "name": "[Imagery / Gallery]",
         "characters": "[Imagery / Gallery]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7929,7 +9496,7 @@
         "name": "[Imagery / Gallery]",
         "characters": "[Imagery / Gallery]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7949,7 +9516,7 @@
         "name": "View:",
         "characters": "View:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7969,7 +9536,7 @@
         "name": "[Gallery]",
         "characters": "[Gallery]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -7989,7 +9556,7 @@
         "name": "[Imagery / Silhouette]",
         "characters": "[Imagery / Silhouette]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8009,7 +9576,7 @@
         "name": "[Imagery / Silhouette]",
         "characters": "[Imagery / Silhouette]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8029,7 +9596,7 @@
         "name": "[Imagery / Silhouette]",
         "characters": "[Imagery / Silhouette]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8049,7 +9616,7 @@
         "name": "View:",
         "characters": "View:",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8069,7 +9636,7 @@
         "name": "[Gallery]",
         "characters": "[Gallery]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8089,7 +9656,7 @@
         "name": "[Imagery / Portraits]",
         "characters": "[Imagery / Portraits]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8109,7 +9676,7 @@
         "name": "[Imagery / Portraits]",
         "characters": "[Imagery / Portraits]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8129,7 +9696,7 @@
         "name": "[Imagery / Portraits]",
         "characters": "[Imagery / Portraits]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8149,7 +9716,7 @@
         "name": "[Imagery / Base]",
         "characters": "[Imagery / Base]",
         "fontName": {
-          "family": "Instrument Sans",
+          "family": "IBM Plex Sans",
           "style": "Medium"
         },
         "fontSize": 14,
@@ -8169,11 +9736,11 @@
       "id": "2001:647",
       "page": "1. Principles ",
       "parent": "1",
-      "name": "example demo",
-      "characters": "example demo",
+      "name": "Figma Brand",
+      "characters": "Figma Brand ",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Serif",
+        "style": "SemiBold"
       },
       "fontSize": 240,
       "lineHeight": {
@@ -8192,8 +9759,8 @@
       "name": "Logo",
       "characters": "Logo",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Serif",
+        "style": "SemiBold"
       },
       "fontSize": 240,
       "lineHeight": {
@@ -8212,8 +9779,8 @@
       "name": "Typography",
       "characters": "Typography",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Serif",
+        "style": "SemiBold"
       },
       "fontSize": 240,
       "lineHeight": {
@@ -8229,11 +9796,11 @@
       "id": "2025:953",
       "page": "5. Color ",
       "parent": "Color / 1",
-      "name": "Palette Demo",
-      "characters": "Palette Demo",
+      "name": "Color",
+      "characters": "Color",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Serif",
+        "style": "SemiBold"
       },
       "fontSize": 240,
       "lineHeight": {
@@ -8250,10 +9817,10 @@
       "page": "5. Color ",
       "parent": "Color / 3",
       "name": "Title",
-      "characters": "This demo palette shifts the brand toward warm ivory, clay, and sage so the update is easy to spot in the Figma file.",
+      "characters": "The SoloOctopus palette is built on a nocturnal canvas. Near-black is the foundation, electric teal is the signal of distributed intelligence. White provides clarity and contrast, ensuring the brand reads with confidence across digital touchpoints, decks, and podcast art.",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Sans",
+        "style": "Regular"
       },
       "fontSize": 64,
       "lineHeight": {
@@ -8273,42 +9840,42 @@
         "page": "5. Color ",
         "parent": "1",
         "name": "Color",
-        "current_hex": "EEF3FF"
+        "current_hex": "0A0A0A"
       },
       {
         "id": "2049:173",
         "page": "5. Color ",
         "parent": "2",
         "name": "Color",
-        "current_hex": "D7E3FF"
+        "current_hex": "141414"
       },
       {
         "id": "2049:188",
         "page": "5. Color ",
         "parent": "3",
         "name": "Color",
-        "current_hex": "20304A"
+        "current_hex": "FFFFFF"
       },
       {
         "id": "2049:201",
         "page": "5. Color ",
         "parent": "4",
         "name": "Color",
-        "current_hex": "7D93C6"
+        "current_hex": "00E5CC"
       },
       {
         "id": "2049:214",
         "page": "5. Color ",
         "parent": "5",
         "name": "Color",
-        "current_hex": "C7D3EA"
+        "current_hex": "1C1C1C"
       },
       {
         "id": "2049:227",
         "page": "5. Color ",
         "parent": "6",
         "name": "Color",
-        "current_hex": "465A86"
+        "current_hex": "2A2A2A"
       }
     ],
     "secondary": [
@@ -8317,21 +9884,21 @@
         "page": "5. Color ",
         "parent": "1",
         "name": "Color",
-        "current_hex": "D8C3AF"
+        "current_hex": "FFFFFF"
       },
       {
         "id": "2049:334",
         "page": "5. Color ",
         "parent": "2",
         "name": "Color",
-        "current_hex": "B99984"
+        "current_hex": "2A2A2A"
       },
       {
         "id": "2049:347",
         "page": "5. Color ",
         "parent": "3",
         "name": "Color",
-        "current_hex": "BFD9D7"
+        "current_hex": "B0B0B0"
       }
     ],
     "tertiary": [
@@ -8340,21 +9907,21 @@
         "page": "5. Color ",
         "parent": "4",
         "name": "Color",
-        "current_hex": "8A8C6A"
+        "current_hex": "003D33"
       },
       {
         "id": "2049:373",
         "page": "5. Color ",
         "parent": "5",
         "name": "Color",
-        "current_hex": "C56F52"
+        "current_hex": "00E5CC"
       },
       {
         "id": "2049:386",
         "page": "5. Color ",
         "parent": "6",
         "name": "Color",
-        "current_hex": "F2C5BC"
+        "current_hex": "66F5E5"
       }
     ]
   },
@@ -8363,11 +9930,11 @@
       "id": "2001:647",
       "page": "1. Principles ",
       "parent": "1",
-      "name": "example demo",
-      "characters": "example demo",
+      "name": "Figma Brand",
+      "characters": "Figma Brand ",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Serif",
+        "style": "SemiBold"
       },
       "fontSize": 240,
       "lineHeight": {
@@ -8386,8 +9953,8 @@
       "name": "Logo",
       "characters": "Logo",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Serif",
+        "style": "SemiBold"
       },
       "fontSize": 240,
       "lineHeight": {
@@ -8404,10 +9971,10 @@
       "page": "5. Color ",
       "parent": "Color / 3",
       "name": "Title",
-      "characters": "This demo palette shifts the brand toward warm ivory, clay, and sage so the update is easy to spot in the Figma file.",
+      "characters": "The SoloOctopus palette is built on a nocturnal canvas. Near-black is the foundation, electric teal is the signal of distributed intelligence. White provides clarity and contrast, ensuring the brand reads with confidence across digital touchpoints, decks, and podcast art.",
       "fontName": {
-        "family": "Poppins",
-        "style": "Medium"
+        "family": "IBM Plex Sans",
+        "style": "Regular"
       },
       "fontSize": 64,
       "lineHeight": {
@@ -8420,13 +9987,13 @@
       }
     },
     "head_wordmark": {
-      "id": "I2072:251;105:407",
-      "page": "2. Logo ",
+      "id": "I2001:1142;105:407",
+      "page": "1. Principles ",
       "parent": "Head",
       "name": "Velour & Co.",
-      "characters": "Velour & Co.",
+      "characters": "SoloOctopus",
       "fontName": {
-        "family": "Instrument Sans",
+        "family": "IBM Plex Sans",
         "style": "SemiBold"
       },
       "fontSize": 19,
@@ -8446,7 +10013,7 @@
       "name": "Page Type:",
       "characters": "Page Type:",
       "fontName": {
-        "family": "Instrument Sans",
+        "family": "IBM Plex Sans",
         "style": "Medium"
       },
       "fontSize": 14,
@@ -8463,10 +10030,10 @@
       "id": "2082:797",
       "page": "5. Color ",
       "parent": "Footer",
-      "name": "Velour & Co Presentation Developed By BrandKit",
-      "characters": "Velour & Co Presentation\nDeveloped By BrandKit",
+      "name": "SoloOctopus Brand Guidelines Developed By BrandKit",
+      "characters": "SoloOctopus Brand Guidelines\nDeveloped By BrandKit",
       "fontName": {
-        "family": "EB Garamond",
+        "family": "IBM Plex Serif",
         "style": "Medium Italic"
       },
       "fontSize": 14,
@@ -8480,5 +10047,5 @@
       }
     }
   },
-  "generated_at": "2026-03-07T23:42:29.265Z"
+  "generated_at": "2026-03-08T00:26:49.234Z"
 }
